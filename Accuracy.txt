@@ -1,0 +1,80 @@
+Historical Accuracy of the UFC ELO project
+
+UFC 319 - V1
+
+Model win probability: edson barboza 49.82% | drakkar klose 50.18%  (stats shift: -1.35 pp) CORRECT
+
+Model win probability: chase hooper 59.79% | alexander hernandez 40.21%  (stats shift: +0.85 pp) WRONG
+
+Model win probability: gerald meerschaert 49.99% | michal oleksiejczuk 50.01%  (stats shift: +0.37 pp) CORRECT
+
+Model win probability: tim elliott 54.33% | kai asakura 45.67%  (stats shift: -2.79 pp) CORRECT
+
+Model win probability: jared cannonier 51.17% | michael page 48.83%  (stats shift: -9.76 pp) WRONG
+
+Model win probability: geoff neal 48.32% | carlos prates 51.68%  (stats shift: -0.86 pp) CORRECT
+
+Model win probability: lerone murphy 80.94% | aaron pico 19.06%  (stats shift: +11.93 pp) CORRECT
+
+Model win probability: dricus du plessis 52.62% | khamzat chimaev 47.38%  (stats shift: -21.78 pp) WRONG
+
+5-3 62.5% Accuracy
+
+UFC SHANGHAI - V2
+
+Lone'er Kavanagh 🏴󠁧󠁢󠁥󠁮󠁧󠁿 versus Charles Johnson 🇺🇸
+- Model win probability: lone'er kavanagh 60.30% | charles johnson 39.70%  (stats shift: +4.80 pp) WRONG
+
+Su Mudaerji 🇨🇳 versus Kevin Borjas 🇵🇪
+- Model win probability: sumudaerji 56.49% | kevin borjas 43.51%  (stats shift: +8.12 pp) CORRECT
+
+Sergei Pavlovich 🇷🇺 versus Waldo Cortes-Acosta 🇩🇴
+- Model win probability: sergei pavlovich 52.53% | waldo cortes-acosta 47.47%  (stats shift: -0.16 pp) CORRECT
+
+Brian Ortega 🇺🇸 versus Aljamain Sterling 🇺🇸
+- Model win probability: brian ortega 36.29% | aljamain sterling 63.71%  (stats shift: +4.30 pp) CORRECT
+
+Johnny Walker 🇧🇷 versus Zhang Mingyang 🇨🇳
+- Model win probability: johnny walker 44.77% | zhang mingyang 55.23%  (stats shift: -6.92 pp) WRONG
+
+8-5 61.3% Accuracy
+
+UFC PARIS - V3
+
+Andreas Gustafsson 🇸🇪 versus Rinat Fakhretdinov 🇷🇺
+- Model win probability: andreas gustafsson 56.22% | rinat fakhretdinov 43.78%  (stats shift: +10.46 pp) WRONG
+
+Sam Patterson 🇬🇧 versus Trey Waters 🇺🇸
+- Model win probability: sam patterson 53.43% | trey waters 46.57%  (stats shift: +3.61 pp) CORRECT
+
+
+Oumar Sy 🇫🇷 versus Brendson Ribeiro 🇧🇷
+- Model win probability: oumar sy 70.57% | brendson ribeiro 29.43%  (stats shift: +14.34 pp) CORRECT
+
+Benoit Saint Denis 🇫🇷 versus Mauricio Ruffy 🇧🇷
+- Model win probability: benoit saint denis 43.92% | mauricio ruffy 56.08%  (stats shift: -6.58 pp) WRONG
+
+Nassourdine Imavov 🇫🇷 versus Caio Borralho 🇧🇷
+- Model win probability: nassourdine imavov 53.96% | caio borralho 46.04%  (stats shift: -5.00 pp) CORRECT
+
+11-7 61.1%
+
+UFC NOCHE - V4
+
+Alexander Hernandez 🇺🇸 vs Diego Ferreira 🇧🇷
+Model win probability: alexander hernandez 49.68% | diego ferreira 50.32%  (stats shift: +1.26 pp)
+
+Kelvin Gastelum 🇺🇸 vs Dustin Stoltzfus 🇺🇸
+- Model win probability: kelvin gastelum 51.21% | dustin stoltzfus 48.79%  (stats shift: -5.19 pp)
+
+Rafa Garcia 🇲🇽 vs Jared Gordon 🇺🇸
+- Model win probability: rafa garcia 50.59% | jared gordon 49.41%  (stats shift: +0.04 pp)
+
+Rob Font 🇵🇷 vs David Martinez 🇲🇽
+- Model win probability: Rob Font 48.11% | David Martinez 51.89%  (stats shift: -10.98 pp)
+
+Diego Lopes 🇧🇷 vs Jean Silva 🇧🇷
+- Model win probability: diego lopes 45.79% | jean silva 54.21%  (stats shift: -3.11 pp)
+
+
+

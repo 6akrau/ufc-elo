@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Project: keep repo light/safe
+data/*.db
+data/*.sqlite
+data/*.pkl
+data/*.joblib
+data/*.mp4
+data/*.parquet
+data/*.csv
+rf_model.pkl
+elo.db
+
+# If you want to include some CSVs, remove them from ignore and add with:
+# git add -f data/training_fights.csv
