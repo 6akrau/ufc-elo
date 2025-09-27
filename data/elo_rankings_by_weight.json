@@ -73,7 +73,12 @@
     {
       "weight_class": 265,
       "name": "Valter Walker",
-      "elo": 1511.51
+      "elo": 1511.52
+    },
+    {
+      "weight_class": 265,
+      "name": "Steven Asplund",
+      "elo": 1509.38
     },
     {
       "weight_class": 265,
@@ -133,7 +138,7 @@
     {
       "weight_class": 265,
       "name": "Kennedy Nzechukwu",
-      "elo": 1419.53
+      "elo": 1419.68
     },
     {
       "weight_class": 265,
@@ -158,7 +163,7 @@
     {
       "weight_class": 265,
       "name": "Lukasz Brzeski",
-      "elo": 1230.54
+      "elo": 1230.56
     }
   ],
   "185": [
@@ -175,12 +180,12 @@
     {
       "weight_class": 185,
       "name": "Nassourdine Imavov",
-      "elo": 2093.03
+      "elo": 2093.07
     },
     {
       "weight_class": 185,
       "name": "Anthony Hernandez",
-      "elo": 1867.57
+      "elo": 1867.41
     },
     {
       "weight_class": 185,
@@ -195,22 +200,22 @@
     {
       "weight_class": 185,
       "name": "Caio Borralho",
-      "elo": 1737.2
-    },
-    {
-      "weight_class": 185,
-      "name": "Brendan Allen",
-      "elo": 1721.63
+      "elo": 1738.4
     },
     {
       "weight_class": 185,
       "name": "Reinier de Ridder",
-      "elo": 1708.85
+      "elo": 1708.82
     },
     {
       "weight_class": 185,
       "name": "Robert Whittaker",
       "elo": 1721.26
+    },
+    {
+      "weight_class": 185,
+      "name": "Brendan Allen",
+      "elo": 1719.57
     },
     {
       "weight_class": 185,
@@ -225,7 +230,7 @@
     {
       "weight_class": 185,
       "name": "Roman Dolidze",
-      "elo": 1647.87
+      "elo": 1647.86
     },
     {
       "weight_class": 185,
@@ -260,7 +265,7 @@
     {
       "weight_class": 185,
       "name": "Bo Nickal",
-      "elo": 1543.1
+      "elo": 1542.32
     },
     {
       "weight_class": 185,
@@ -295,17 +300,17 @@
     {
       "weight_class": 185,
       "name": "Joe Pyfer",
-      "elo": 1520.87
-    },
-    {
-      "weight_class": 185,
-      "name": "Nursulton Ruziboev",
-      "elo": 1518.99
+      "elo": 1521.04
     },
     {
       "weight_class": 185,
       "name": "Baisangur Susurkaev",
       "elo": 1518.69
+    },
+    {
+      "weight_class": 185,
+      "name": "Nursulton Ruziboev",
+      "elo": 1518.58
     },
     {
       "weight_class": 185,
@@ -324,13 +329,23 @@
     },
     {
       "weight_class": 185,
+      "name": "Donte Johnson",
+      "elo": 1509.38
+    },
+    {
+      "weight_class": 185,
+      "name": "Cezary Oleksiejczuk",
+      "elo": 1509.38
+    },
+    {
+      "weight_class": 185,
       "name": "Aliaskhab Khizriev",
       "elo": 1508.36
     },
     {
       "weight_class": 185,
       "name": "Marvin Vettori",
-      "elo": 1506.04
+      "elo": 1505.98
     },
     {
       "weight_class": 185,
@@ -344,8 +359,13 @@
     },
     {
       "weight_class": 185,
+      "name": "Kelvin Gastelum",
+      "elo": 1486.94
+    },
+    {
+      "weight_class": 185,
       "name": "Andre Muniz",
-      "elo": 1486.76
+      "elo": 1486.32
     },
     {
       "weight_class": 185,
@@ -365,7 +385,7 @@
     {
       "weight_class": 185,
       "name": "Zachary Reese",
-      "elo": 1477.35
+      "elo": 1477.44
     },
     {
       "weight_class": 185,
@@ -404,11 +424,6 @@
     },
     {
       "weight_class": 185,
-      "name": "Kelvin Gastelum",
-      "elo": 1473.19
-    },
-    {
-      "weight_class": 185,
       "name": "Andrey Pulyaev",
       "elo": 1472.82
     },
@@ -420,7 +435,7 @@
     {
       "weight_class": 185,
       "name": "Eric McConico",
-      "elo": 1466.41
+      "elo": 1466.4
     },
     {
       "weight_class": 185,
@@ -479,13 +494,13 @@
     },
     {
       "weight_class": 185,
-      "name": "Cody Brundage",
-      "elo": 1391.58
+      "name": "Dusko Todorovic",
+      "elo": 1398.4
     },
     {
       "weight_class": 185,
-      "name": "Dustin Stoltzfus",
-      "elo": 1383.82
+      "name": "Cody Brundage",
+      "elo": 1391.58
     },
     {
       "weight_class": 185,
@@ -494,8 +509,8 @@
     },
     {
       "weight_class": 185,
-      "name": "Dusko Todorovic",
-      "elo": 1362.08
+      "name": "Dustin Stoltzfus",
+      "elo": 1345.07
     },
     {
       "weight_class": 185,
@@ -562,7 +577,7 @@
     {
       "weight_class": 125,
       "name": "Steve Erceg",
-      "elo": 1637.86
+      "elo": 1637.85
     },
     {
       "weight_class": 125,
@@ -602,7 +617,7 @@
     {
       "weight_class": 125,
       "name": "Rafael Estevam",
-      "elo": 1551.18
+      "elo": 1551.58
     },
     {
       "weight_class": 125,
@@ -622,22 +637,12 @@
     {
       "weight_class": 125,
       "name": "Alden Coria",
-      "elo": 1500.0
+      "elo": 1509.34
     },
     {
       "weight_class": 125,
       "name": "Nyamjargal Tumendemberel",
       "elo": 1493.07
-    },
-    {
-      "weight_class": 125,
-      "name": "Alessandro Costa",
-      "elo": 1492.87
-    },
-    {
-      "weight_class": 125,
-      "name": "Kiru Sahota",
-      "elo": 1490.4
     },
     {
       "weight_class": 125,
@@ -648,6 +653,11 @@
       "weight_class": 125,
       "name": "Clayton Carpenter",
       "elo": 1486.67
+    },
+    {
+      "weight_class": 125,
+      "name": "Jesus Aguilar",
+      "elo": 1485.29
     },
     {
       "weight_class": 125,
@@ -676,6 +686,11 @@
     },
     {
       "weight_class": 125,
+      "name": "Alessandro Costa",
+      "elo": 1447.96
+    },
+    {
+      "weight_class": 125,
       "name": "Kevin Borjas",
       "elo": 1425.31
     },
@@ -683,11 +698,6 @@
       "weight_class": 125,
       "name": "Ronaldo Rodriguez",
       "elo": 1464.7
-    },
-    {
-      "weight_class": 125,
-      "name": "Jesus Aguilar",
-      "elo": 1463.74
     },
     {
       "weight_class": 125,
@@ -703,16 +713,6 @@
       "weight_class": 125,
       "name": "Jafel Filho",
       "elo": 1459.17
-    },
-    {
-      "weight_class": 125,
-      "name": "Ode Osbourne",
-      "elo": 1395.14
-    },
-    {
-      "weight_class": 125,
-      "name": "Luis Gurule",
-      "elo": 1457.94
     },
     {
       "weight_class": 125,
@@ -743,6 +743,16 @@
       "weight_class": 125,
       "name": "Daniel Barez",
       "elo": 1438.58
+    },
+    {
+      "weight_class": 125,
+      "name": "Ode Osbourne",
+      "elo": 1394.87
+    },
+    {
+      "weight_class": 125,
+      "name": "Luis Gurule",
+      "elo": 1416.43
     },
     {
       "weight_class": 125,
@@ -794,12 +804,12 @@
     {
       "weight_class": 155,
       "name": "Grant Dawson",
-      "elo": 1628.43
+      "elo": 1627.51
     },
     {
       "weight_class": 155,
       "name": "Mairon Santos",
-      "elo": 1577.14
+      "elo": 1577.13
     },
     {
       "weight_class": 155,
@@ -824,7 +834,7 @@
     {
       "weight_class": 155,
       "name": "Rongzhu",
-      "elo": 1544.21
+      "elo": 1545.36
     },
     {
       "weight_class": 155,
@@ -839,7 +849,7 @@
     {
       "weight_class": 155,
       "name": "MarQuel Mederos",
-      "elo": 1560.28
+      "elo": 1561.21
     },
     {
       "weight_class": 155,
@@ -904,22 +914,32 @@
     {
       "weight_class": 155,
       "name": "Nikolas Motta",
-      "elo": 1452.82
+      "elo": 1453.14
     },
     {
       "weight_class": 155,
       "name": "Tom Nolan",
-      "elo": 1504.65
+      "elo": 1504.66
     },
     {
       "weight_class": 155,
       "name": "Evan Elder",
-      "elo": 1502.14
+      "elo": 1502.33
+    },
+    {
+      "weight_class": 155,
+      "name": "Rafa Garcia",
+      "elo": 1500.49
+    },
+    {
+      "weight_class": 155,
+      "name": "Alexander Hernandez",
+      "elo": 1459.74
     },
     {
       "weight_class": 155,
       "name": "Diego Ferreira",
-      "elo": 1464.52
+      "elo": 1416.47
     },
     {
       "weight_class": 155,
@@ -944,17 +964,17 @@
     {
       "weight_class": 155,
       "name": "Jared Gordon",
-      "elo": 1483.62
+      "elo": 1436.99
     },
     {
       "weight_class": 155,
       "name": "Thiago Moises",
-      "elo": 1422.9
+      "elo": 1421.33
     },
     {
       "weight_class": 155,
       "name": "Trey Ogden",
-      "elo": 1460.62
+      "elo": 1460.58
     },
     {
       "weight_class": 155,
@@ -968,18 +988,8 @@
     },
     {
       "weight_class": 155,
-      "name": "Rafa Garcia",
-      "elo": 1491.26
-    },
-    {
-      "weight_class": 155,
-      "name": "Alexander Hernandez",
-      "elo": 1442.6
-    },
-    {
-      "weight_class": 155,
       "name": "Chase Hooper",
-      "elo": 1488.75
+      "elo": 1488.82
     },
     {
       "weight_class": 155,
@@ -989,17 +999,12 @@
     {
       "weight_class": 155,
       "name": "Jordan Leavitt",
-      "elo": 1482.45
+      "elo": 1482.46
     },
     {
       "weight_class": 155,
       "name": "Michael Johnson",
       "elo": 1481.82
-    },
-    {
-      "weight_class": 155,
-      "name": "Claudio Puelles",
-      "elo": 1479.99
     },
     {
       "weight_class": 155,
@@ -1009,12 +1014,17 @@
     {
       "weight_class": 155,
       "name": "Edson Barboza",
-      "elo": 1472.07
+      "elo": 1472.06
     },
     {
       "weight_class": 155,
       "name": "Abdul-Kareem Al-Selwady",
       "elo": 1470.82
+    },
+    {
+      "weight_class": 155,
+      "name": "Joaquim Silva",
+      "elo": 1467.82
     },
     {
       "weight_class": 155,
@@ -1034,17 +1044,17 @@
     {
       "weight_class": 155,
       "name": "Kyle Nelson",
-      "elo": 1457.82
+      "elo": 1457.83
     },
     {
       "weight_class": 155,
       "name": "Kody Steele",
-      "elo": 1457.42
+      "elo": 1457.46
     },
     {
       "weight_class": 155,
       "name": "Mark Choinski",
-      "elo": 1454.91
+      "elo": 1454.94
     },
     {
       "weight_class": 155,
@@ -1088,13 +1098,8 @@
     },
     {
       "weight_class": 155,
-      "name": "Joaquim Silva",
-      "elo": 1441.78
-    },
-    {
-      "weight_class": 155,
       "name": "Gauge Young",
-      "elo": 1436.48
+      "elo": 1437.09
     },
     {
       "weight_class": 155,
@@ -1108,13 +1113,18 @@
     },
     {
       "weight_class": 155,
+      "name": "Claudio Puelles",
+      "elo": 1422.48
+    },
+    {
+      "weight_class": 155,
       "name": "Sodiq Yusuff",
-      "elo": 1420.05
+      "elo": 1419.61
     },
     {
       "weight_class": 155,
       "name": "Kyle Prepolec",
-      "elo": 1417.75
+      "elo": 1417.82
     },
     {
       "weight_class": 155,
@@ -1125,11 +1135,6 @@
       "weight_class": 155,
       "name": "Alex Reyes",
       "elo": 1404.67
-    },
-    {
-      "weight_class": 155,
-      "name": "Maheshate",
-      "elo": 1399.97
     },
     {
       "weight_class": 155,
@@ -1154,7 +1159,7 @@
     {
       "weight_class": 155,
       "name": "Viacheslav Borshchev",
-      "elo": 1369.82
+      "elo": 1369.86
     },
     {
       "weight_class": 155,
@@ -1178,13 +1183,8 @@
     },
     {
       "weight_class": 155,
-      "name": "Austin Hubbard",
-      "elo": 1349.49
-    },
-    {
-      "weight_class": 155,
       "name": "Kurt Holobaugh",
-      "elo": 1327.88
+      "elo": 1328.27
     }
   ],
   "135": [
@@ -1230,11 +1230,6 @@
     },
     {
       "weight_class": 135,
-      "name": "Rob Font",
-      "elo": 1652.8
-    },
-    {
-      "weight_class": 135,
       "name": "Aiemann Zahabi",
       "elo": 1637.69
     },
@@ -1245,13 +1240,23 @@
     },
     {
       "weight_class": 135,
+      "name": "David Martinez",
+      "elo": 1616.03
+    },
+    {
+      "weight_class": 135,
+      "name": "Rob Font",
+      "elo": 1627.76
+    },
+    {
+      "weight_class": 135,
       "name": "Vinicius Oliveira",
       "elo": 1624.77
     },
     {
       "weight_class": 135,
       "name": "SuYoung You",
-      "elo": 1605.29
+      "elo": 1605.42
     },
     {
       "weight_class": 135,
@@ -1271,7 +1276,7 @@
     {
       "weight_class": 135,
       "name": "Bryce Mitchell",
-      "elo": 1562.96
+      "elo": 1562.97
     },
     {
       "weight_class": 135,
@@ -1321,12 +1326,7 @@
     {
       "weight_class": 135,
       "name": "Jean Matsumoto",
-      "elo": 1528.86
-    },
-    {
-      "weight_class": 135,
-      "name": "David Martinez",
-      "elo": 1525.05
+      "elo": 1528.42
     },
     {
       "weight_class": 135,
@@ -1365,13 +1365,13 @@
     },
     {
       "weight_class": 135,
-      "name": "Davey Grant",
-      "elo": 1508.63
+      "name": "Santiago Luna",
+      "elo": 1509.05
     },
     {
       "weight_class": 135,
-      "name": "Santiago Luna",
-      "elo": 1500.0
+      "name": "Davey Grant",
+      "elo": 1508.63
     },
     {
       "weight_class": 135,
@@ -1441,12 +1441,12 @@
     {
       "weight_class": 135,
       "name": "Da'Mon Blackshear",
-      "elo": 1438.52
+      "elo": 1438.44
     },
     {
       "weight_class": 135,
       "name": "Alatengheili",
-      "elo": 1456.22
+      "elo": 1456.21
     },
     {
       "weight_class": 135,
@@ -1460,16 +1460,6 @@
     },
     {
       "weight_class": 135,
-      "name": "Xiao Long",
-      "elo": 1444.92
-    },
-    {
-      "weight_class": 135,
-      "name": "Quang Le",
-      "elo": 1451.22
-    },
-    {
-      "weight_class": 135,
       "name": "Colby Thicknesse",
       "elo": 1450.62
     },
@@ -1477,6 +1467,16 @@
       "weight_class": 135,
       "name": "Douglas Silva de Andrade",
       "elo": 1445.54
+    },
+    {
+      "weight_class": 135,
+      "name": "Xiao Long",
+      "elo": 1444.92
+    },
+    {
+      "weight_class": 135,
+      "name": "Quang Le",
+      "elo": 1405.98
     },
     {
       "weight_class": 135,
@@ -1497,6 +1497,11 @@
       "weight_class": 135,
       "name": "Cristian Quinonez",
       "elo": 1440.84
+    },
+    {
+      "weight_class": 135,
+      "name": "Luan Lacerda",
+      "elo": 1436.68
     },
     {
       "weight_class": 135,
@@ -1561,12 +1566,12 @@
     {
       "weight_class": 135,
       "name": "Saimon Oliveira",
-      "elo": 1387.6
+      "elo": 1392.31
     },
     {
       "weight_class": 135,
       "name": "AJ Cunningham",
-      "elo": 1377.67
+      "elo": 1377.68
     },
     {
       "weight_class": 135,
@@ -1578,7 +1583,7 @@
     {
       "weight_class": 145,
       "name": "Alexander Volkanovski",
-      "elo": 1982.91
+      "elo": 1982.9
     },
     {
       "weight_class": 145,
@@ -1603,22 +1608,22 @@
     {
       "weight_class": 145,
       "name": "Yair Rodriguez",
-      "elo": 1753.01
-    },
-    {
-      "weight_class": 145,
-      "name": "Arnold Allen",
-      "elo": 1701.28
-    },
-    {
-      "weight_class": 145,
-      "name": "Jean Silva",
-      "elo": 1669.1
+      "elo": 1753.0
     },
     {
       "weight_class": 145,
       "name": "Diego Lopes",
-      "elo": 1653.77
+      "elo": 1740.18
+    },
+    {
+      "weight_class": 145,
+      "name": "Arnold Allen",
+      "elo": 1701.24
+    },
+    {
+      "weight_class": 145,
+      "name": "Jean Silva",
+      "elo": 1624.0
     },
     {
       "weight_class": 145,
@@ -1633,12 +1638,12 @@
     {
       "weight_class": 145,
       "name": "Steve Garcia",
-      "elo": 1589.53
+      "elo": 1589.77
     },
     {
       "weight_class": 145,
       "name": "David Onama",
-      "elo": 1586.25
+      "elo": 1586.22
     },
     {
       "weight_class": 145,
@@ -1653,7 +1658,7 @@
     {
       "weight_class": 145,
       "name": "Yizha",
-      "elo": 1510.19
+      "elo": 1510.48
     },
     {
       "weight_class": 145,
@@ -1673,7 +1678,7 @@
     {
       "weight_class": 145,
       "name": "Sean Woodson",
-      "elo": 1541.28
+      "elo": 1541.08
     },
     {
       "weight_class": 145,
@@ -1738,7 +1743,7 @@
     {
       "weight_class": 145,
       "name": "Giga Chikadze",
-      "elo": 1507.03
+      "elo": 1506.46
     },
     {
       "weight_class": 145,
@@ -1762,18 +1767,13 @@
     },
     {
       "weight_class": 145,
-      "name": "Alex Caceres",
-      "elo": 1475.38
-    },
-    {
-      "weight_class": 145,
       "name": "Andre Fili",
       "elo": 1423.4
     },
     {
       "weight_class": 145,
       "name": "Christian Rodriguez",
-      "elo": 1429.01
+      "elo": 1429.0
     },
     {
       "weight_class": 145,
@@ -1818,12 +1818,12 @@
     {
       "weight_class": 145,
       "name": "Fernando Padilla",
-      "elo": 1447.67
+      "elo": 1447.66
     },
     {
       "weight_class": 145,
       "name": "Julian Erosa",
-      "elo": 1462.12
+      "elo": 1461.81
     },
     {
       "weight_class": 145,
@@ -1838,7 +1838,7 @@
     {
       "weight_class": 145,
       "name": "Darren Elkins",
-      "elo": 1460.55
+      "elo": 1460.54
     },
     {
       "weight_class": 145,
@@ -1853,7 +1853,7 @@
     {
       "weight_class": 145,
       "name": "Melsik Baghdasaryan",
-      "elo": 1450.57
+      "elo": 1450.24
     },
     {
       "weight_class": 145,
@@ -1878,7 +1878,7 @@
     {
       "weight_class": 145,
       "name": "Shayilan Nuerdanbieke",
-      "elo": 1435.32
+      "elo": 1435.33
     },
     {
       "weight_class": 145,
@@ -1892,11 +1892,6 @@
     },
     {
       "weight_class": 145,
-      "name": "Baergeng Jieleyisi",
-      "elo": 1421.02
-    },
-    {
-      "weight_class": 145,
       "name": "Roberto Romero",
       "elo": 1417.67
     },
@@ -1907,13 +1902,8 @@
     },
     {
       "weight_class": 145,
-      "name": "Westin Wilson",
-      "elo": 1411.38
-    },
-    {
-      "weight_class": 145,
       "name": "Ricardo Ramos",
-      "elo": 1411.15
+      "elo": 1411.14
     },
     {
       "weight_class": 145,
@@ -1923,7 +1913,7 @@
     {
       "weight_class": 145,
       "name": "Calvin Kattar",
-      "elo": 1377.95
+      "elo": 1377.96
     },
     {
       "weight_class": 145,
@@ -1940,7 +1930,7 @@
     {
       "weight_class": 205,
       "name": "Magomed Ankalaev",
-      "elo": 2363.58
+      "elo": 2363.49
     },
     {
       "weight_class": 205,
@@ -1965,22 +1955,22 @@
     {
       "weight_class": 205,
       "name": "Carlos Ulberg",
-      "elo": 1659.07
+      "elo": 1659.01
     },
     {
       "weight_class": 205,
       "name": "Volkan Oezdemir",
-      "elo": 1678.51
+      "elo": 1675.99
     },
     {
       "weight_class": 205,
       "name": "Bogdan Guskov",
-      "elo": 1715.7
+      "elo": 1715.67
     },
     {
       "weight_class": 205,
       "name": "Dominick Reyes",
-      "elo": 1667.21
+      "elo": 1667.2
     },
     {
       "weight_class": 205,
@@ -1995,17 +1985,17 @@
     {
       "weight_class": 205,
       "name": "Johnny Walker",
-      "elo": 1607.69
-    },
-    {
-      "weight_class": 205,
-      "name": "Jamahal Hill",
-      "elo": 1566.82
+      "elo": 1605.84
     },
     {
       "weight_class": 205,
       "name": "Modestas Bukauskas",
-      "elo": 1565.22
+      "elo": 1567.01
+    },
+    {
+      "weight_class": 205,
+      "name": "Jamahal Hill",
+      "elo": 1566.83
     },
     {
       "weight_class": 205,
@@ -2015,12 +2005,12 @@
     {
       "weight_class": 205,
       "name": "Alonzo Menifield",
-      "elo": 1539.57
+      "elo": 1539.6
     },
     {
       "weight_class": 205,
       "name": "Zhang Mingyang",
-      "elo": 1530.91
+      "elo": 1530.86
     },
     {
       "weight_class": 205,
@@ -2030,7 +2020,7 @@
     {
       "weight_class": 205,
       "name": "Nikita Krylov",
-      "elo": 1519.54
+      "elo": 1519.44
     },
     {
       "weight_class": 205,
@@ -2070,7 +2060,7 @@
     {
       "weight_class": 205,
       "name": "Jimmy Crute",
-      "elo": 1471.48
+      "elo": 1471.49
     },
     {
       "weight_class": 205,
@@ -2080,7 +2070,7 @@
     {
       "weight_class": 205,
       "name": "Ryan Spann",
-      "elo": 1468.83
+      "elo": 1468.82
     },
     {
       "weight_class": 205,
@@ -2130,12 +2120,7 @@
     {
       "weight_class": 205,
       "name": "Rafael Cerqueira",
-      "elo": 1339.08
-    },
-    {
-      "weight_class": 205,
-      "name": "Paul Craig",
-      "elo": 1258.29
+      "elo": 1339.18
     }
   ],
   "170": [
@@ -2201,6 +2186,11 @@
     },
     {
       "weight_class": 170,
+      "name": "Daniil Donchenko",
+      "elo": 1556.25
+    },
+    {
+      "weight_class": 170,
       "name": "Gabriel Bonfim",
       "elo": 1582.59
     },
@@ -2236,6 +2226,11 @@
     },
     {
       "weight_class": 170,
+      "name": "Jacobe Smith",
+      "elo": 1533.8
+    },
+    {
+      "weight_class": 170,
       "name": "Seokhyeon Ko",
       "elo": 1533.5
     },
@@ -2248,11 +2243,6 @@
       "weight_class": 170,
       "name": "Rafael Dos Anjos",
       "elo": 1533.4
-    },
-    {
-      "weight_class": 170,
-      "name": "Jacobe Smith",
-      "elo": 1533.39
     },
     {
       "weight_class": 170,
@@ -2307,17 +2297,7 @@
     {
       "weight_class": 170,
       "name": "Oban Elliott",
-      "elo": 1500.48
-    },
-    {
-      "weight_class": 170,
-      "name": "Daniil Donchenko",
-      "elo": 1500.0
-    },
-    {
-      "weight_class": 170,
-      "name": "Rodrigo Sezinando",
-      "elo": 1500.0
+      "elo": 1500.45
     },
     {
       "weight_class": 170,
@@ -2357,7 +2337,7 @@
     {
       "weight_class": 170,
       "name": "Chris Curtis",
-      "elo": 1467.91
+      "elo": 1467.88
     },
     {
       "weight_class": 170,
@@ -2393,6 +2373,11 @@
       "weight_class": 170,
       "name": "Bassil Hafez",
       "elo": 1457.44
+    },
+    {
+      "weight_class": 170,
+      "name": "Rodrigo Sezinando",
+      "elo": 1453.12
     },
     {
       "weight_class": 170,
@@ -2448,11 +2433,6 @@
       "weight_class": 170,
       "name": "Carlston Harris",
       "elo": 1425.8
-    },
-    {
-      "weight_class": 170,
-      "name": "Preston Parsons",
-      "elo": 1424.66
     },
     {
       "weight_class": 170,

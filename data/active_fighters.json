@@ -107,6 +107,10 @@
     "http://ufcstats.com/fighter-details/399afbabc02376b5",
     "https://www.roster.watch/fighters/tomaspinall.html"
   ],
+  "Steven Asplund": [
+    "http://ufcstats.com/fighter-details/e56cee1ad697db04",
+    "https://www.roster.watch/fighters/stevenasplund.html"
+  ],
   "Michael Aswell": [
     "http://ufcstats.com/fighter-details/01c9e4013afce141",
     "https://www.roster.watch/fighters/michaelaswell.html"
@@ -271,10 +275,6 @@
     "http://ufcstats.com/fighter-details/c4d039123e62f6a9",
     "https://www.roster.watch/fighters/dennisbuzukja.html"
   ],
-  "Alex Caceres": [
-    "http://ufcstats.com/fighter-details/7aa3d6964eff4877",
-    "https://www.roster.watch/fighters/alexcaceres.html"
-  ],
   "Matheus Camilo": [
     "http://ufcstats.com/fighter-details/72f890c5d421e705",
     "https://www.roster.watch/fighters/matheuscamilo.html"
@@ -366,10 +366,6 @@
   "Colby Covington": [
     "http://ufcstats.com/fighter-details/dc9572dd6ec74859",
     "https://www.roster.watch/fighters/colbycovington.html"
-  ],
-  "Paul Craig": [
-    "http://ufcstats.com/fighter-details/eabf206b162b3b83",
-    "https://www.roster.watch/fighters/paulcraig.html"
   ],
   "Kiefer Crosbie": [
     "http://ufcstats.com/fighter-details/4729c93ba705a3bf",
@@ -783,10 +779,6 @@
     "http://ufcstats.com/fighter-details/971246648e162f0d",
     "https://www.roster.watch/fighters/chasehooper.html"
   ],
-  "Austin Hubbard": [
-    "http://ufcstats.com/fighter-details/d2cd7a69cc55e7ed",
-    "https://www.roster.watch/fighters/austinhubbard.html"
-  ],
   "Alibi Idiris": [
     "http://ufcstats.com/fighter-details/30cad5a751adcb48",
     "https://www.roster.watch/fighters/alibiidiris.html"
@@ -811,10 +803,6 @@
     "http://ufcstats.com/fighter-details/a9da3158dd2c2b5a",
     "https://www.roster.watch/fighters/jackjenkins.html"
   ],
-  "Baergeng Jieleyisi": [
-    "http://ufcstats.com/fighter-details/8677e67a75d65b8e",
-    "https://www.roster.watch/fighters/baergengjieleyisi.html"
-  ],
   "Miles Johns": [
     "http://ufcstats.com/fighter-details/46e0d677f91bacc0",
     "https://www.roster.watch/fighters/milesjohns.html"
@@ -826,6 +814,10 @@
   "Charles Johnson": [
     "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
     "https://www.roster.watch/fighters/charlesjohnson.html"
+  ],
+  "Donte Johnson": [
+    "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+    "https://www.roster.watch/fighters/dontejohnson.html"
   ],
   "Mason Jones": [
     "http://ufcstats.com/fighter-details/f6ad6a1e4d600e0d",
@@ -890,6 +882,10 @@
   "Rizvan Kuniev": [
     "http://ufcstats.com/fighter-details/739fd4fbb5d862f4",
     "https://www.roster.watch/fighters/rizvankuniev.html"
+  ],
+  "Luan Lacerda": [
+    "http://ufcstats.com/fighter-details/6fc506e1099afe20",
+    "https://www.roster.watch/fighters/luanlacerda.html"
   ],
   "Nate Landwehr": [
     "http://ufcstats.com/fighter-details/583ee11abddfc581",
@@ -970,10 +966,6 @@
   "Shara Magomedov": [
     "http://ufcstats.com/fighter-details/06734ca9d88dec3a",
     "https://www.roster.watch/fighters/sharamagomedov.html"
-  ],
-  "Maheshate": [
-    "http://ufcstats.com/fighter-details/8c1ca54b5089d199",
-    "https://www.roster.watch/fighters/maheshate.html"
   ],
   "Islam Makhachev": [
     "http://ufcstats.com/fighter-details/275aca31f61ba28c",
@@ -1247,6 +1239,10 @@
     "http://ufcstats.com/fighter-details/0d65c432720accb9",
     "https://www.roster.watch/fighters/michaloleksiejczuk.html"
   ],
+  "Cezary Oleksiejczuk": [
+    "http://ufcstats.com/fighter-details/084532da3d25f3b8",
+    "https://www.roster.watch/fighters/cezaryoleksiejczuk.html"
+  ],
   "Charles Oliveira": [
     "http://ufcstats.com/fighter-details/07225ba28ae309b6",
     "https://www.roster.watch/fighters/charlesoliveira.html"
@@ -1306,10 +1302,6 @@
   "Mick Parkin": [
     "http://ufcstats.com/fighter-details/0d5cc0170c1a7e71",
     "https://www.roster.watch/fighters/mickparkin.html"
-  ],
-  "Preston Parsons": [
-    "http://ufcstats.com/fighter-details/9fe7af8b3fbe00a0",
-    "https://www.roster.watch/fighters/prestonparsons.html"
   ],
   "Sam Patterson": [
     "http://ufcstats.com/fighter-details/8b6e5dc2ba1edbe7",
@@ -1550,10 +1542,6 @@
   "Terrance Saeteurn": [
     "http://ufcstats.com/fighter-details/a78f7a9135eb6249",
     "https://www.roster.watch/fighters/terrancesaeteurn.html"
-  ],
-  "Kiru Sahota": [
-    "http://ufcstats.com/fighter-details/296a120cb880477b",
-    "https://www.roster.watch/fighters/kirusahota.html"
   ],
   "Benoit Saint Denis": [
     "http://ufcstats.com/fighter-details/c2299ec916bc7c56",
@@ -1918,10 +1906,6 @@
   "Khaos Williams": [
     "http://ufcstats.com/fighter-details/2558ae2e5671e318",
     "https://www.roster.watch/fighters/khaoswilliams.html"
-  ],
-  "Westin Wilson": [
-    "http://ufcstats.com/fighter-details/7b3503352cd53abb",
-    "https://www.roster.watch/fighters/westinwilson.html"
   ],
   "Nathaniel Wood": [
     "http://ufcstats.com/fighter-details/329e403448756217",

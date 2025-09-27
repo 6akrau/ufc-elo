@@ -677,20 +677,20 @@
     "stance": "Orthodox",
     "reach_in": 62.0,
     "reach_cm": 157.5,
-    "total_fights": 6,
-    "wins": 4,
+    "total_fights": 7,
+    "wins": 5,
     "losses": 2,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 45.0,
-    "sig_strike_def": 59.0,
-    "sapm": 1.1,
-    "td_acc": 35.0,
-    "td_def": 40.0,
-    "sub_avg15": 1.8,
+    "sig_strike_acc": 40.0,
+    "sig_strike_def": 62.0,
+    "sapm": 1.85,
+    "td_acc": 31.0,
+    "td_def": 48.0,
+    "sub_avg15": 1.4,
     "ko_wins": 1,
     "sub_wins": 2,
-    "unanimous_dec_wins": 0,
+    "unanimous_dec_wins": 1,
     "split_dec_wins": 1,
     "majority_dec_wins": 0,
     "dq_wins": 0,
@@ -705,6 +705,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "all_opponent_ranks": [
@@ -716,10 +717,15 @@
       "NR",
       "NR"
     ],
-    "ko_pct": 25.0,
-    "sub_pct": 50.0,
-    "dec_pct": 25.0,
+    "ko_pct": 20.0,
+    "sub_pct": 40.0,
+    "dec_pct": 40.0,
     "decision_scores": [
+      [
+        "27-30",
+        "28-29",
+        "28-29"
+      ],
       [
         "28-29",
         "28-29",
@@ -737,12 +743,18 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "DECISION - UNANIMOUS",
         "rank": "NR",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "27-30",
+            "28-29",
+            "28-29"
+          ]
+        ],
         "opponent": "luis gurule",
         "opponent_url": "http://ufcstats.com/fighter-details/29162be25ebef5f0"
       },
@@ -877,6 +889,7 @@
     ],
     "all_opponent_ranks": [
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -894,6 +907,16 @@
     "championship_fights": 0,
     "most_recent_year": 2024,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "matheus camilo",
+        "opponent_url": "http://ufcstats.com/fighter-details/72f890c5d421e705"
+      },
       {
         "year": 2024,
         "result": "loss",
@@ -922,10 +945,12 @@
       }
     ],
     "opponents": [
+      "matheus camilo",
       "loik radzhabov",
       "george hardwick"
     ],
     "opponents_urls": {
+      "matheus camilo": "http://ufcstats.com/fighter-details/72f890c5d421e705",
       "loik radzhabov": "http://ufcstats.com/fighter-details/8c169fbe1ac33637",
       "george hardwick": "http://ufcstats.com/fighter-details/f55a6807b6bb853d"
     }
@@ -2001,6 +2026,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "10",
       "12",
       "4",
@@ -2065,6 +2091,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "reinier de ridder",
+        "opponent_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -2289,6 +2325,7 @@
       }
     ],
     "opponents": [
+      "reinier de ridder",
       "marvin vettori",
       "anthony hernandez",
       "nassourdine imavov",
@@ -2309,6 +2346,7 @@
       "aaron jeffery"
     ],
     "opponents_urls": {
+      "reinier de ridder": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
       "marvin vettori": "http://ufcstats.com/fighter-details/7acbb0972e75281a",
       "anthony hernandez": "http://ufcstats.com/fighter-details/093e1f5bb73850be",
       "nassourdine imavov": "http://ufcstats.com/fighter-details/881bf86d4cba8578",
@@ -5069,7 +5107,6 @@
       "NR",
       "NR",
       "NR",
-      "NR",
       "NR"
     ],
     "ko_pct": 100.0,
@@ -5087,16 +5124,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "junior tafa",
-        "opponent_url": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4"
-      },
       {
         "year": 2025,
         "result": "loss",
@@ -5155,7 +5182,6 @@
       }
     ],
     "opponents": [
-      "junior tafa",
       "billy elekana",
       "ion cutelaba",
       "rafael cerqueira",
@@ -5163,7 +5189,6 @@
       "paulo renato junior"
     ],
     "opponents_urls": {
-      "junior tafa": "http://ufcstats.com/fighter-details/c15fa95b9a12fde4",
       "billy elekana": "http://ufcstats.com/fighter-details/07a74004d964c7f4",
       "ion cutelaba": "http://ufcstats.com/fighter-details/cd13728ae1151f46",
       "rafael cerqueira": "http://ufcstats.com/fighter-details/09a4447655fd4b7b",
@@ -5359,6 +5384,73 @@
       "andrei arlovski": "http://ufcstats.com/fighter-details/3738e68d2261e60f",
       "alan baudot": "http://ufcstats.com/fighter-details/c9a94278df042f46",
       "jake collier": "http://ufcstats.com/fighter-details/92fa1401b7927da3"
+    }
+  },
+  {
+    "name": "Steven Asplund",
+    "url": [
+      "http://ufcstats.com/fighter-details/e56cee1ad697db04",
+      "https://www.roster.watch/fighters/stevenasplund.html"
+    ],
+    "weight_class": 261,
+    "stance": "Orthodox",
+    "reach_in": 78.0,
+    "reach_cm": 198.1,
+    "total_fights": 1,
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "avg_fight_time_sec": null,
+    "sig_strike_acc": 64.0,
+    "sig_strike_def": 71.0,
+    "sapm": 7.5,
+    "td_acc": 0.0,
+    "td_def": 0.0,
+    "sub_avg15": 0.0,
+    "ko_wins": 1,
+    "sub_wins": 0,
+    "unanimous_dec_wins": 0,
+    "split_dec_wins": 0,
+    "majority_dec_wins": 0,
+    "dq_wins": 0,
+    "ko_losses": 0,
+    "sub_losses": 0,
+    "unanimous_dec_losses": 0,
+    "split_dec_losses": 0,
+    "majority_dec_losses": 0,
+    "dq_losses": 0,
+    "ranked_wins": 0,
+    "win_opponent_ranks": [
+      "NR"
+    ],
+    "all_opponent_ranks": [
+      "NR"
+    ],
+    "ko_pct": 100.0,
+    "sub_pct": 0.0,
+    "dec_pct": 0.0,
+    "decision_scores": [],
+    "championship_wins": 0,
+    "championship_losses": 0,
+    "championship_fights": 0,
+    "most_recent_year": 2025,
+    "fight_records": [
+      {
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "anthony guarascio",
+        "opponent_url": "http://ufcstats.com/fighter-details/dc052ab64be66e1d"
+      }
+    ],
+    "opponents": [
+      "anthony guarascio"
+    ],
+    "opponents_urls": {
+      "anthony guarascio": "http://ufcstats.com/fighter-details/dc052ab64be66e1d"
     }
   },
   {
@@ -11462,6 +11554,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 25.0,
@@ -11484,6 +11577,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "austin vanderford",
+        "opponent_url": "http://ufcstats.com/fighter-details/32c3ee378671a5d9"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -11568,6 +11671,7 @@
       }
     ],
     "opponents": [
+      "austin vanderford",
       "billy ray goff",
       "mickey gall",
       "themba gorimbo",
@@ -11577,6 +11681,7 @@
       "max griffin"
     ],
     "opponents_urls": {
+      "austin vanderford": "http://ufcstats.com/fighter-details/32c3ee378671a5d9",
       "billy ray goff": "http://ufcstats.com/fighter-details/fa07345cc9db5cc9",
       "mickey gall": "http://ufcstats.com/fighter-details/9e50097a89442158",
       "themba gorimbo": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1",
@@ -14424,664 +14529,6 @@
     }
   },
   {
-    "name": "Alex Caceres",
-    "url": [
-      "http://ufcstats.com/fighter-details/7aa3d6964eff4877",
-      "https://www.roster.watch/fighters/alexcaceres.html"
-    ],
-    "weight_class": 145,
-    "stance": "Southpaw",
-    "reach_in": 73.0,
-    "reach_cm": 185.4,
-    "total_fights": 29,
-    "wins": 16,
-    "losses": 13,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 49.0,
-    "sig_strike_def": 62.0,
-    "sapm": 3.09,
-    "td_acc": 68.0,
-    "td_def": 64.0,
-    "sub_avg15": 0.7,
-    "ko_wins": 2,
-    "sub_wins": 4,
-    "unanimous_dec_wins": 7,
-    "split_dec_wins": 3,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 1,
-    "sub_losses": 5,
-    "unanimous_dec_losses": 4,
-    "split_dec_losses": 3,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 1,
-    "win_opponent_ranks": [
-      15,
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "9",
-      "15",
-      "NR",
-      "12",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "13",
-      "NR",
-      "NR",
-      "11",
-      "10",
-      "2",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 12.5,
-    "sub_pct": 25.0,
-    "dec_pct": 62.5,
-    "decision_scores": [
-      [
-        "28-29",
-        "28-29",
-        "27-30"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "28-29"
-      ],
-      [
-        "26-30",
-        "26-30",
-        "27-30"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "27-30",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "29-28",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "29-28",
-        "28-29"
-      ],
-      [
-        "49-46",
-        "47-48",
-        "47-48"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "27-30"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "29-28"
-      ],
-      [
-        "28-29",
-        "29-28",
-        "28-29"
-      ],
-      [
-        "29-28",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "27-28",
-        "28-27",
-        "27-28"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2024,
-    "fight_records": [
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "27-30"
-          ]
-        ],
-        "opponent": "sean woodson",
-        "opponent_url": "http://ufcstats.com/fighter-details/4682bc59d5f55145"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "9",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "giga chikadze",
-        "opponent_url": "http://ufcstats.com/fighter-details/9560ff14eb3129f7"
-      },
-      {
-        "year": 2023,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "15",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "daniel pineda",
-        "opponent_url": "http://ufcstats.com/fighter-details/361d49960a196976"
-      },
-      {
-        "year": 2022,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "julian erosa",
-        "opponent_url": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a"
-      },
-      {
-        "year": 2022,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "12",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "28-29"
-          ]
-        ],
-        "opponent": "sodiq yusuff",
-        "opponent_url": "http://ufcstats.com/fighter-details/94426bb170c88115"
-      },
-      {
-        "year": 2021,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "seungwoo choi",
-        "opponent_url": "http://ufcstats.com/fighter-details/a68575214ecad140"
-      },
-      {
-        "year": 2021,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "26-30",
-            "26-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "kevin croom",
-        "opponent_url": "http://ufcstats.com/fighter-details/35b3772629e27a49"
-      },
-      {
-        "year": 2020,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "austin springer",
-        "opponent_url": "http://ufcstats.com/fighter-details/37cc294027f55e4d"
-      },
-      {
-        "year": 2020,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "chase hooper",
-        "opponent_url": "http://ufcstats.com/fighter-details/971246648e162f0d"
-      },
-      {
-        "year": 2019,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "steven peterson",
-        "opponent_url": "http://ufcstats.com/fighter-details/b93c06d09d1c4ac0"
-      },
-      {
-        "year": 2019,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "kron gracie",
-        "opponent_url": "http://ufcstats.com/fighter-details/242d36d241b43c12"
-      },
-      {
-        "year": 2018,
-        "result": "win",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "29-28",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "martin bravo",
-        "opponent_url": "http://ufcstats.com/fighter-details/9c44f290f5726d95"
-      },
-      {
-        "year": 2017,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "29-28",
-            "28-29"
-          ]
-        ],
-        "opponent": "wang guan",
-        "opponent_url": "http://ufcstats.com/fighter-details/dd12382f28296f7b"
-      },
-      {
-        "year": 2017,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "rolando dy",
-        "opponent_url": "http://ufcstats.com/fighter-details/55ed59d541f8b90c"
-      },
-      {
-        "year": 2017,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jason knight",
-        "opponent_url": "http://ufcstats.com/fighter-details/bb1a2cdad6ff34db"
-      },
-      {
-        "year": 2016,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "13",
-        "is_title": false,
-        "scores": [
-          [
-            "49-46",
-            "47-48",
-            "47-48"
-          ]
-        ],
-        "opponent": "yair rodriguez",
-        "opponent_url": "http://ufcstats.com/fighter-details/cbf5e6f231b55443"
-      },
-      {
-        "year": 2016,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "27-30"
-          ]
-        ],
-        "opponent": "cole miller",
-        "opponent_url": "http://ufcstats.com/fighter-details/282fa667ff9c51ed"
-      },
-      {
-        "year": 2016,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "masio fullen",
-        "opponent_url": "http://ufcstats.com/fighter-details/4638cc6479cc0afe"
-      },
-      {
-        "year": 2015,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "11",
-        "is_title": false,
-        "scores": [],
-        "opponent": "francisco rivera",
-        "opponent_url": "http://ufcstats.com/fighter-details/7ea4a9f07df33a45"
-      },
-      {
-        "year": 2014,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "10",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "masanori kanehara",
-        "opponent_url": "http://ufcstats.com/fighter-details/f3a078277b3b8ff4"
-      },
-      {
-        "year": 2014,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "2",
-        "is_title": false,
-        "scores": [],
-        "opponent": "urijah faber",
-        "opponent_url": "http://ufcstats.com/fighter-details/78114b7199cef90c"
-      },
-      {
-        "year": 2014,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "sergio pettis",
-        "opponent_url": "http://ufcstats.com/fighter-details/de75d1c45a39e221"
-      },
-      {
-        "year": 2013,
-        "result": "win",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "29-28"
-          ]
-        ],
-        "opponent": "roland delorme",
-        "opponent_url": "http://ufcstats.com/fighter-details/173acb3f920082b8"
-      },
-      {
-        "year": 2013,
-        "result": "nc",
-        "method": "OVERTURNED",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "29-28",
-            "28-29"
-          ]
-        ],
-        "opponent": "kyung ho kang",
-        "opponent_url": "http://ufcstats.com/fighter-details/a7897d200692ab64"
-      },
-      {
-        "year": 2012,
-        "result": "win",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "29-28",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "motonobu tezuka",
-        "opponent_url": "http://ufcstats.com/fighter-details/d34636a85f0f4c90"
-      },
-      {
-        "year": 2012,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "damacio page",
-        "opponent_url": "http://ufcstats.com/fighter-details/c96e2ae6021144a1"
-      },
-      {
-        "year": 2012,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-28",
-            "28-27",
-            "27-28"
-          ]
-        ],
-        "opponent": "edwin figueroa",
-        "opponent_url": "http://ufcstats.com/fighter-details/bbfca6d5c27d9cd8"
-      },
-      {
-        "year": 2011,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "cole escovedo",
-        "opponent_url": "http://ufcstats.com/fighter-details/5df17b3620145578"
-      },
-      {
-        "year": 2011,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jimy hettes",
-        "opponent_url": "http://ufcstats.com/fighter-details/893d51aaf024eddd"
-      },
-      {
-        "year": 2011,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "mackens semerzier",
-        "opponent_url": "http://ufcstats.com/fighter-details/51b1e2fd9872005b"
-      }
-    ],
-    "opponents": [
-      "sean woodson",
-      "giga chikadze",
-      "daniel pineda",
-      "julian erosa",
-      "sodiq yusuff",
-      "seungwoo choi",
-      "kevin croom",
-      "austin springer",
-      "chase hooper",
-      "steven peterson",
-      "kron gracie",
-      "martin bravo",
-      "wang guan",
-      "rolando dy",
-      "jason knight",
-      "yair rodriguez",
-      "cole miller",
-      "masio fullen",
-      "francisco rivera",
-      "masanori kanehara",
-      "urijah faber",
-      "sergio pettis",
-      "roland delorme",
-      "kyung ho kang",
-      "motonobu tezuka",
-      "damacio page",
-      "edwin figueroa",
-      "cole escovedo",
-      "jimy hettes",
-      "mackens semerzier"
-    ],
-    "opponents_urls": {
-      "sean woodson": "http://ufcstats.com/fighter-details/4682bc59d5f55145",
-      "giga chikadze": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
-      "daniel pineda": "http://ufcstats.com/fighter-details/361d49960a196976",
-      "julian erosa": "http://ufcstats.com/fighter-details/902ec2cc48c8ae8a",
-      "sodiq yusuff": "http://ufcstats.com/fighter-details/94426bb170c88115",
-      "seungwoo choi": "http://ufcstats.com/fighter-details/a68575214ecad140",
-      "kevin croom": "http://ufcstats.com/fighter-details/35b3772629e27a49",
-      "austin springer": "http://ufcstats.com/fighter-details/37cc294027f55e4d",
-      "chase hooper": "http://ufcstats.com/fighter-details/971246648e162f0d",
-      "steven peterson": "http://ufcstats.com/fighter-details/b93c06d09d1c4ac0",
-      "kron gracie": "http://ufcstats.com/fighter-details/242d36d241b43c12",
-      "martin bravo": "http://ufcstats.com/fighter-details/9c44f290f5726d95",
-      "wang guan": "http://ufcstats.com/fighter-details/dd12382f28296f7b",
-      "rolando dy": "http://ufcstats.com/fighter-details/55ed59d541f8b90c",
-      "jason knight": "http://ufcstats.com/fighter-details/bb1a2cdad6ff34db",
-      "yair rodriguez": "http://ufcstats.com/fighter-details/cbf5e6f231b55443",
-      "cole miller": "http://ufcstats.com/fighter-details/282fa667ff9c51ed",
-      "masio fullen": "http://ufcstats.com/fighter-details/4638cc6479cc0afe",
-      "francisco rivera": "http://ufcstats.com/fighter-details/7ea4a9f07df33a45",
-      "masanori kanehara": "http://ufcstats.com/fighter-details/f3a078277b3b8ff4",
-      "urijah faber": "http://ufcstats.com/fighter-details/78114b7199cef90c",
-      "sergio pettis": "http://ufcstats.com/fighter-details/de75d1c45a39e221",
-      "roland delorme": "http://ufcstats.com/fighter-details/173acb3f920082b8",
-      "kyung ho kang": "http://ufcstats.com/fighter-details/a7897d200692ab64",
-      "motonobu tezuka": "http://ufcstats.com/fighter-details/d34636a85f0f4c90",
-      "damacio page": "http://ufcstats.com/fighter-details/c96e2ae6021144a1",
-      "edwin figueroa": "http://ufcstats.com/fighter-details/bbfca6d5c27d9cd8",
-      "cole escovedo": "http://ufcstats.com/fighter-details/5df17b3620145578",
-      "jimy hettes": "http://ufcstats.com/fighter-details/893d51aaf024eddd",
-      "mackens semerzier": "http://ufcstats.com/fighter-details/51b1e2fd9872005b"
-    }
-  },
-  {
     "name": "Matheus Camilo",
     "url": [
       "http://ufcstats.com/fighter-details/72f890c5d421e705",
@@ -15117,6 +14564,7 @@
     "ranked_wins": 0,
     "win_opponent_ranks": [],
     "all_opponent_ranks": [
+      "NR",
       "NR"
     ],
     "ko_pct": 100.0,
@@ -15129,6 +14577,16 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "abdulkareem alselwady",
+        "opponent_url": "http://ufcstats.com/fighter-details/597499ac7a5aac62"
+      },
+      {
         "year": 2025,
         "result": "loss",
         "method": "SUBMISSION",
@@ -15140,9 +14598,11 @@
       }
     ],
     "opponents": [
+      "abdulkareem alselwady",
       "gabe green"
     ],
     "opponents_urls": {
+      "abdulkareem alselwady": "http://ufcstats.com/fighter-details/597499ac7a5aac62",
       "gabe green": "http://ufcstats.com/fighter-details/5eb50529a8418b77"
     }
   },
@@ -15187,6 +14647,7 @@
     "all_opponent_ranks": [
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 50.0,
@@ -15204,6 +14665,16 @@
     "championship_fights": 0,
     "most_recent_year": 2024,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "tom nolan",
+        "opponent_url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4"
+      },
       {
         "year": 2024,
         "result": "win",
@@ -15242,11 +14713,13 @@
       }
     ],
     "opponents": [
+      "tom nolan",
       "trevor peek",
       "alex reyes",
       "chris duncan"
     ],
     "opponents_urls": {
+      "tom nolan": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
       "trevor peek": "http://ufcstats.com/fighter-details/0bc697c5936a2d0a",
       "alex reyes": "http://ufcstats.com/fighter-details/dc07493a87dc0a6e",
       "chris duncan": "http://ufcstats.com/fighter-details/fd406a32a6fb3a29"
@@ -18455,20 +17928,20 @@
     ],
     "weight_class": 125,
     "stance": "Orthodox",
-    "reach_in": null,
-    "reach_cm": null,
+    "reach_in": 67.0,
+    "reach_cm": 170.2,
     "total_fights": 1,
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 0.0,
-    "sig_strike_def": 0.0,
-    "sapm": 0.0,
-    "td_acc": 0.0,
-    "td_def": 0.0,
+    "sig_strike_acc": 44.0,
+    "sig_strike_def": 78.0,
+    "sapm": 1.11,
+    "td_acc": 100.0,
+    "td_def": 75.0,
     "sub_avg15": 0.0,
-    "ko_wins": 0,
+    "ko_wins": 1,
     "sub_wins": 0,
     "unanimous_dec_wins": 0,
     "split_dec_wins": 0,
@@ -18481,7 +17954,9 @@
     "majority_dec_losses": 0,
     "dq_losses": 0,
     "ranked_wins": 0,
-    "win_opponent_ranks": [],
+    "win_opponent_ranks": [
+      "NR"
+    ],
     "all_opponent_ranks": [
       "NR"
     ],
@@ -18492,12 +17967,12 @@
     "championship_wins": 0,
     "championship_losses": 0,
     "championship_fights": 0,
-    "most_recent_year": 0,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -18557,6 +18032,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "3",
       "7",
       "12",
@@ -18613,6 +18089,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "ante delija",
+        "opponent_url": "http://ufcstats.com/fighter-details/7d8435c56043b0ae"
+      },
       {
         "year": 2025,
         "result": "loss",
@@ -18757,6 +18243,7 @@
       }
     ],
     "opponents": [
+      "ante delija",
       "sergei pavlovich",
       "serghei spivac",
       "ryan spann",
@@ -18769,6 +18256,7 @@
       "danilo suzart"
     ],
     "opponents_urls": {
+      "ante delija": "http://ufcstats.com/fighter-details/7d8435c56043b0ae",
       "sergei pavlovich": "http://ufcstats.com/fighter-details/f14cf73e51b29254",
       "serghei spivac": "http://ufcstats.com/fighter-details/e2f6b2769aaedd6c",
       "ryan spann": "http://ufcstats.com/fighter-details/a67f5afa8d6a1b80",
@@ -19061,24 +18549,24 @@
     "stance": "Orthodox",
     "reach_in": 67.0,
     "reach_cm": 170.2,
-    "total_fights": 5,
+    "total_fights": 6,
     "wins": 3,
-    "losses": 2,
+    "losses": 3,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 47.0,
+    "sig_strike_acc": 44.0,
     "sig_strike_def": 57.0,
-    "sapm": 3.5,
-    "td_acc": 12.0,
-    "td_def": 90.0,
-    "sub_avg15": 0.0,
+    "sapm": 3.57,
+    "td_acc": 16.0,
+    "td_def": 83.0,
+    "sub_avg15": 0.5,
     "ko_wins": 2,
     "sub_wins": 0,
     "unanimous_dec_wins": 0,
     "split_dec_wins": 1,
     "majority_dec_wins": 0,
     "dq_wins": 0,
-    "ko_losses": 1,
+    "ko_losses": 2,
     "sub_losses": 0,
     "unanimous_dec_losses": 1,
     "split_dec_losses": 0,
@@ -19116,12 +18604,12 @@
     "championship_wins": 0,
     "championship_losses": 0,
     "championship_fights": 0,
-    "most_recent_year": 2024,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -19774,374 +19262,6 @@
       "mike pyle": "http://ufcstats.com/fighter-details/f5990c11974d8e9c",
       "wagner silva": "http://ufcstats.com/fighter-details/fb79582c410d049e",
       "anying wang": "http://ufcstats.com/fighter-details/69e8c632135af48b"
-    }
-  },
-  {
-    "name": "Paul Craig",
-    "url": [
-      "http://ufcstats.com/fighter-details/eabf206b162b3b83",
-      "https://www.roster.watch/fighters/paulcraig.html"
-    ],
-    "weight_class": 205,
-    "stance": "Orthodox",
-    "reach_in": 76.0,
-    "reach_cm": 193.0,
-    "total_fights": 20,
-    "wins": 9,
-    "losses": 10,
-    "draws": 1,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 45.0,
-    "sig_strike_def": 43.0,
-    "sapm": 3.04,
-    "td_acc": 18.0,
-    "td_def": 35.0,
-    "sub_avg15": 1.3,
-    "ko_wins": 3,
-    "sub_wins": 6,
-    "unanimous_dec_wins": 0,
-    "split_dec_wins": 0,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 6,
-    "sub_losses": 2,
-    "unanimous_dec_losses": 2,
-    "split_dec_losses": 0,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 4,
-    "win_opponent_ranks": [
-      14,
-      9,
-      15,
-      14,
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "14",
-      "10",
-      "14",
-      "12",
-      "9",
-      "9",
-      "15",
-      "14",
-      "NR",
-      "14",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 33.3,
-    "sub_pct": 66.7,
-    "dec_pct": 0.0,
-    "decision_scores": [
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "29-28",
-        "28-28"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2025,
-    "fight_records": [
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "modestas bukauskas",
-        "opponent_url": "http://ufcstats.com/fighter-details/476fe566d2df676e"
-      },
-      {
-        "year": 2025,
-        "result": "nc",
-        "method": "CNC",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "rodolfo bellato",
-        "opponent_url": "http://ufcstats.com/fighter-details/69898645d600abdb"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "bo nickal",
-        "opponent_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "14",
-        "is_title": false,
-        "scores": [],
-        "opponent": "caio borralho",
-        "opponent_url": "http://ufcstats.com/fighter-details/4126a78111c0855a"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "10",
-        "is_title": false,
-        "scores": [],
-        "opponent": "brendan allen",
-        "opponent_url": "http://ufcstats.com/fighter-details/2f181c0467965b98"
-      },
-      {
-        "year": 2023,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "14",
-        "is_title": false,
-        "scores": [],
-        "opponent": "andre muniz",
-        "opponent_url": "http://ufcstats.com/fighter-details/886264a0c9f4ea5e"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "12",
-        "is_title": false,
-        "scores": [],
-        "opponent": "johnny walker",
-        "opponent_url": "http://ufcstats.com/fighter-details/c21f26bbde777573"
-      },
-      {
-        "year": 2022,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "9",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "volkan oezdemir",
-        "opponent_url": "http://ufcstats.com/fighter-details/0845c81e37d3bcb3"
-      },
-      {
-        "year": 2022,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "9",
-        "is_title": false,
-        "scores": [],
-        "opponent": "nikita krylov",
-        "opponent_url": "http://ufcstats.com/fighter-details/1091d4d957141094"
-      },
-      {
-        "year": 2021,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "15",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jamahal hill",
-        "opponent_url": "http://ufcstats.com/fighter-details/5444c5a201d3ee5a"
-      },
-      {
-        "year": 2020,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "14",
-        "is_title": false,
-        "scores": [],
-        "opponent": "mauricio rua",
-        "opponent_url": "http://ufcstats.com/fighter-details/140745cbbcb023ac"
-      },
-      {
-        "year": 2020,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "gadzhimurad antigulov",
-        "opponent_url": "http://ufcstats.com/fighter-details/af997f7611673880"
-      },
-      {
-        "year": 2019,
-        "result": "draw",
-        "method": "DECISION - SPLIT",
-        "rank": "14",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "29-28",
-            "28-28"
-          ]
-        ],
-        "opponent": "mauricio rua",
-        "opponent_url": "http://ufcstats.com/fighter-details/140745cbbcb023ac"
-      },
-      {
-        "year": 2019,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "vinicius moreira",
-        "opponent_url": "http://ufcstats.com/fighter-details/acb36c908d415c4a"
-      },
-      {
-        "year": 2019,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "alonzo menifield",
-        "opponent_url": "http://ufcstats.com/fighter-details/a495f599e787614f"
-      },
-      {
-        "year": 2019,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "kennedy nzechukwu",
-        "opponent_url": "http://ufcstats.com/fighter-details/8667caa0451d245b"
-      },
-      {
-        "year": 2018,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jimmy crute",
-        "opponent_url": "http://ufcstats.com/fighter-details/70e1f8a821b72c8b"
-      },
-      {
-        "year": 2018,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "magomed ankalaev",
-        "opponent_url": "http://ufcstats.com/fighter-details/d802174b0c0c1f4e"
-      },
-      {
-        "year": 2017,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "khalil rountree jr",
-        "opponent_url": "http://ufcstats.com/fighter-details/749f572d1d3161fb"
-      },
-      {
-        "year": 2017,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "tyson pedro",
-        "opponent_url": "http://ufcstats.com/fighter-details/49e96ff8ab781589"
-      },
-      {
-        "year": 2016,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "henrique da silva",
-        "opponent_url": "http://ufcstats.com/fighter-details/b0bd0c5425668b8f"
-      }
-    ],
-    "opponents": [
-      "modestas bukauskas",
-      "rodolfo bellato",
-      "bo nickal",
-      "caio borralho",
-      "brendan allen",
-      "andre muniz",
-      "johnny walker",
-      "volkan oezdemir",
-      "nikita krylov",
-      "jamahal hill",
-      "mauricio rua",
-      "gadzhimurad antigulov",
-      "mauricio rua",
-      "vinicius moreira",
-      "alonzo menifield",
-      "kennedy nzechukwu",
-      "jimmy crute",
-      "magomed ankalaev",
-      "khalil rountree jr",
-      "tyson pedro",
-      "henrique da silva"
-    ],
-    "opponents_urls": {
-      "modestas bukauskas": "http://ufcstats.com/fighter-details/476fe566d2df676e",
-      "rodolfo bellato": "http://ufcstats.com/fighter-details/69898645d600abdb",
-      "bo nickal": "http://ufcstats.com/fighter-details/35673bf5204524ee",
-      "caio borralho": "http://ufcstats.com/fighter-details/4126a78111c0855a",
-      "brendan allen": "http://ufcstats.com/fighter-details/2f181c0467965b98",
-      "andre muniz": "http://ufcstats.com/fighter-details/886264a0c9f4ea5e",
-      "johnny walker": "http://ufcstats.com/fighter-details/c21f26bbde777573",
-      "volkan oezdemir": "http://ufcstats.com/fighter-details/0845c81e37d3bcb3",
-      "nikita krylov": "http://ufcstats.com/fighter-details/1091d4d957141094",
-      "jamahal hill": "http://ufcstats.com/fighter-details/5444c5a201d3ee5a",
-      "mauricio rua": "http://ufcstats.com/fighter-details/140745cbbcb023ac",
-      "gadzhimurad antigulov": "http://ufcstats.com/fighter-details/af997f7611673880",
-      "vinicius moreira": "http://ufcstats.com/fighter-details/acb36c908d415c4a",
-      "alonzo menifield": "http://ufcstats.com/fighter-details/a495f599e787614f",
-      "kennedy nzechukwu": "http://ufcstats.com/fighter-details/8667caa0451d245b",
-      "jimmy crute": "http://ufcstats.com/fighter-details/70e1f8a821b72c8b",
-      "magomed ankalaev": "http://ufcstats.com/fighter-details/d802174b0c0c1f4e",
-      "khalil rountree jr": "http://ufcstats.com/fighter-details/749f572d1d3161fb",
-      "tyson pedro": "http://ufcstats.com/fighter-details/49e96ff8ab781589",
-      "henrique da silva": "http://ufcstats.com/fighter-details/b0bd0c5425668b8f"
     }
   },
   {
@@ -22297,6 +21417,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "14",
       "NR",
       "NR",
@@ -22328,6 +21449,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "gerald meerschaert",
+        "opponent_url": "http://ufcstats.com/fighter-details/6ac9bc2953c47345"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -22438,6 +21569,7 @@
       }
     ],
     "opponents": [
+      "gerald meerschaert",
       "michel pereira",
       "eryk anders",
       "roman dolidze",
@@ -22449,6 +21581,7 @@
       "michael lombardo"
     ],
     "opponents_urls": {
+      "gerald meerschaert": "http://ufcstats.com/fighter-details/6ac9bc2953c47345",
       "michel pereira": "http://ufcstats.com/fighter-details/595db60957de51d3",
       "eryk anders": "http://ufcstats.com/fighter-details/cad24459b28592ca",
       "roman dolidze": "http://ufcstats.com/fighter-details/327d5f279895110d",
@@ -23039,8 +22172,8 @@
         "rank": "NR",
         "is_title": false,
         "scores": [],
-        "opponent": "anthony hernandez",
-        "opponent_url": "http://ufcstats.com/fighter-details/093e1f5bb73850be"
+        "opponent": "brendan allen",
+        "opponent_url": "http://ufcstats.com/fighter-details/2f181c0467965b98"
       },
       {
         "year": 2025,
@@ -23090,14 +22223,14 @@
       }
     ],
     "opponents": [
-      "anthony hernandez",
+      "brendan allen",
       "robert whittaker",
       "bo nickal",
       "kevin holland",
       "gerald meerschaert"
     ],
     "opponents_urls": {
-      "anthony hernandez": "http://ufcstats.com/fighter-details/093e1f5bb73850be",
+      "brendan allen": "http://ufcstats.com/fighter-details/2f181c0467965b98",
       "robert whittaker": "http://ufcstats.com/fighter-details/e1147d3d2dabe1ce",
       "bo nickal": "http://ufcstats.com/fighter-details/35673bf5204524ee",
       "kevin holland": "http://ufcstats.com/fighter-details/3a46b268013afede",
@@ -23144,6 +22277,7 @@
     ],
     "all_opponent_ranks": [
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -23161,6 +22295,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "isaac dulgarian",
+        "opponent_url": "http://ufcstats.com/fighter-details/a57cb948c4c70a47"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -23189,10 +22333,12 @@
       }
     ],
     "opponents": [
+      "isaac dulgarian",
       "connor matthews",
       "antonio monteiro"
     ],
     "opponents_urls": {
+      "isaac dulgarian": "http://ufcstats.com/fighter-details/a57cb948c4c70a47",
       "connor matthews": "http://ufcstats.com/fighter-details/36e78278a77006d4",
       "antonio monteiro": "http://ufcstats.com/fighter-details/3e38b1ea16bd4d86"
     }
@@ -23330,6 +22476,7 @@
       7
     ],
     "all_opponent_ranks": [
+      "NR",
       "7"
     ],
     "ko_pct": 100.0,
@@ -23342,6 +22489,16 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "waldo cortesacosta",
+        "opponent_url": "http://ufcstats.com/fighter-details/fc08099550072fe4"
+      },
+      {
         "year": 2025,
         "result": "win",
         "method": "KO/TKO",
@@ -23353,9 +22510,11 @@
       }
     ],
     "opponents": [
+      "waldo cortesacosta",
       "marcin tybura"
     ],
     "opponents_urls": {
+      "waldo cortesacosta": "http://ufcstats.com/fighter-details/fc08099550072fe4",
       "marcin tybura": "http://ufcstats.com/fighter-details/c9cf753cfdf77fc2"
     }
   },
@@ -24684,20 +23843,20 @@
     ],
     "weight_class": 170,
     "stance": "Orthodox",
-    "reach_in": null,
-    "reach_cm": null,
+    "reach_in": 71.0,
+    "reach_cm": 180.3,
     "total_fights": 1,
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 0.0,
-    "sig_strike_def": 0.0,
-    "sapm": 0.0,
-    "td_acc": 0.0,
-    "td_def": 0.0,
+    "sig_strike_acc": 57.0,
+    "sig_strike_def": 72.0,
+    "sapm": 2.25,
+    "td_acc": 33.0,
+    "td_def": 75.0,
     "sub_avg15": 0.0,
-    "ko_wins": 0,
+    "ko_wins": 1,
     "sub_wins": 0,
     "unanimous_dec_wins": 0,
     "split_dec_wins": 0,
@@ -24710,7 +23869,9 @@
     "majority_dec_losses": 0,
     "dq_losses": 0,
     "ranked_wins": 0,
-    "win_opponent_ranks": [],
+    "win_opponent_ranks": [
+      "NR"
+    ],
     "all_opponent_ranks": [
       "NR"
     ],
@@ -24718,15 +23879,15 @@
     "sub_pct": 0.0,
     "dec_pct": 0.0,
     "decision_scores": [],
-    "championship_wins": 0,
+    "championship_wins": 1,
     "championship_losses": 0,
     "championship_fights": 1,
-    "most_recent_year": 0,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": true,
         "scores": [],
@@ -25883,6 +25044,7 @@
     "all_opponent_ranks": [
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 50.0,
@@ -25900,6 +25062,16 @@
     "championship_fights": 0,
     "most_recent_year": 2024,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "yadier del valle",
+        "opponent_url": "http://ufcstats.com/fighter-details/70380ccdc81915b8"
+      },
       {
         "year": 2024,
         "result": "win",
@@ -25938,11 +25110,13 @@
       }
     ],
     "opponents": [
+      "yadier del valle",
       "brendon marotte",
       "christian rodriguez",
       "francis marshall"
     ],
     "opponents_urls": {
+      "yadier del valle": "http://ufcstats.com/fighter-details/70380ccdc81915b8",
       "brendon marotte": "http://ufcstats.com/fighter-details/d7fe8c6b7d2872e5",
       "christian rodriguez": "http://ufcstats.com/fighter-details/5ec591b78349ba7e",
       "francis marshall": "http://ufcstats.com/fighter-details/5d495dec23d7c68e"
@@ -25963,8 +25137,8 @@
     "losses": 3,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 45.0,
-    "sig_strike_def": 55.0,
+    "sig_strike_acc": 44.0,
+    "sig_strike_def": 56.0,
     "sapm": 2.5,
     "td_acc": 35.0,
     "td_def": 40.0,
@@ -26024,9 +25198,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "nc",
+        "method": "CNC",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -27736,7 +26910,6 @@
       "NR",
       "NR",
       "NR",
-      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -27764,16 +26937,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "tom nolan",
-        "opponent_url": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4"
-      },
       {
         "year": 2025,
         "result": "win",
@@ -27844,7 +27007,6 @@
       }
     ],
     "opponents": [
-      "tom nolan",
       "gauge young",
       "darrius flowers",
       "genaro valdez",
@@ -27852,7 +27014,6 @@
       "preston parsons"
     ],
     "opponents_urls": {
-      "tom nolan": "http://ufcstats.com/fighter-details/6c3b2525436cf5d4",
       "gauge young": "http://ufcstats.com/fighter-details/b2a78df161bd67f9",
       "darrius flowers": "http://ufcstats.com/fighter-details/65db4065e2bc107d",
       "genaro valdez": "http://ufcstats.com/fighter-details/cda1099995b46cc2",
@@ -29138,7 +28299,6 @@
       "NR",
       "NR",
       "NR",
-      "NR",
       "NR"
     ],
     "ko_pct": 25.0,
@@ -29171,16 +28331,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jonathan micallef",
-        "opponent_url": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2"
-      },
       {
         "year": 2025,
         "result": "loss",
@@ -29257,7 +28407,6 @@
       }
     ],
     "opponents": [
-      "jonathan micallef",
       "seokhyeon ko",
       "bassil hafez",
       "preston parsons",
@@ -29265,7 +28414,6 @@
       "kaik brito"
     ],
     "opponents_urls": {
-      "jonathan micallef": "http://ufcstats.com/fighter-details/f782f953bfe7b5f2",
       "seokhyeon ko": "http://ufcstats.com/fighter-details/4a07b1988477502c",
       "bassil hafez": "http://ufcstats.com/fighter-details/f4d92416da98804b",
       "preston parsons": "http://ufcstats.com/fighter-details/9fe7af8b3fbe00a0",
@@ -29279,10 +28427,10 @@
       "http://ufcstats.com/fighter-details/87e4a3a5080ee7ce",
       "https://www.roster.watch/fighters/elishaellison.html"
     ],
-    "weight_class": 265,
-    "stance": null,
-    "reach_in": null,
-    "reach_cm": null,
+    "weight_class": 238,
+    "stance": "Orthodox",
+    "reach_in": 78.0,
+    "reach_cm": 198.1,
     "total_fights": 1,
     "wins": 0,
     "losses": 0,
@@ -31368,12 +30516,12 @@
     "stance": "Orthodox",
     "reach_in": 74.0,
     "reach_cm": 188.0,
-    "total_fights": 16,
+    "total_fights": 17,
     "wins": 10,
-    "losses": 6,
+    "losses": 7,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 40.0,
+    "sig_strike_acc": 39.0,
     "sig_strike_def": 55.0,
     "sapm": 3.46,
     "td_acc": 30.0,
@@ -31385,7 +30533,7 @@
     "split_dec_wins": 0,
     "majority_dec_wins": 0,
     "dq_wins": 0,
-    "ko_losses": 3,
+    "ko_losses": 4,
     "sub_losses": 0,
     "unanimous_dec_losses": 2,
     "split_dec_losses": 1,
@@ -31464,9 +30612,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -33150,7 +32298,6 @@
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
       "11",
       "3",
       "7",
@@ -33198,16 +32345,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "charles oliveira",
-        "opponent_url": "http://ufcstats.com/fighter-details/07225ba28ae309b6"
-      },
       {
         "year": 2025,
         "result": "win",
@@ -33350,7 +32487,6 @@
       }
     ],
     "opponents": [
-      "charles oliveira",
       "ignacio bahamondes",
       "justin gaethje",
       "mateusz gamrot",
@@ -33364,7 +32500,6 @@
       "magomed mustafaev"
     ],
     "opponents_urls": {
-      "charles oliveira": "http://ufcstats.com/fighter-details/07225ba28ae309b6",
       "ignacio bahamondes": "http://ufcstats.com/fighter-details/e4a47b07044ddd72",
       "justin gaethje": "http://ufcstats.com/fighter-details/9e8f6c728eb01124",
       "mateusz gamrot": "http://ufcstats.com/fighter-details/72db2a14ffa73ece",
@@ -33610,17 +32745,17 @@
     "stance": "Orthodox",
     "reach_in": 71.0,
     "reach_cm": 180.3,
-    "total_fights": 19,
+    "total_fights": 20,
     "wins": 12,
-    "losses": 7,
+    "losses": 8,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 46.0,
+    "sig_strike_acc": 45.0,
     "sig_strike_def": 57.0,
-    "sapm": 3.67,
-    "td_acc": 34.0,
-    "td_def": 42.0,
-    "sub_avg15": 0.4,
+    "sapm": 3.7,
+    "td_acc": 30.0,
+    "td_def": 43.0,
+    "sub_avg15": 0.3,
     "ko_wins": 6,
     "sub_wins": 1,
     "unanimous_dec_wins": 4,
@@ -33629,7 +32764,7 @@
     "dq_wins": 0,
     "ko_losses": 0,
     "sub_losses": 1,
-    "unanimous_dec_losses": 6,
+    "unanimous_dec_losses": 7,
     "split_dec_losses": 0,
     "majority_dec_losses": 0,
     "dq_losses": 0,
@@ -33649,7 +32784,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
+      "9",
       "9",
       "12",
       "2",
@@ -33674,6 +32809,11 @@
     "sub_pct": 8.3,
     "dec_pct": 41.7,
     "decision_scores": [
+      [
+        "28-29",
+        "28-29",
+        "28-29"
+      ],
       [
         "28-29",
         "29-28",
@@ -33736,12 +32876,18 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
+        "year": 2025,
+        "result": "loss",
+        "method": "DECISION - UNANIMOUS",
+        "rank": "9",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "28-29",
+            "28-29",
+            "28-29"
+          ]
+        ],
         "opponent": "david martinez",
         "opponent_url": "http://ufcstats.com/fighter-details/9a97acbfd5a08bfa"
       },
@@ -35405,6 +34551,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "7",
       "11",
       "11",
@@ -35462,6 +34609,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "charles oliveira",
+        "opponent_url": "http://ufcstats.com/fighter-details/07225ba28ae309b6"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -35616,6 +34773,7 @@
       }
     ],
     "opponents": [
+      "charles oliveira",
       "ludovit klein",
       "dan hooker",
       "rafael dos anjos",
@@ -35629,6 +34787,7 @@
       "guram kutateladze"
     ],
     "opponents_urls": {
+      "charles oliveira": "http://ufcstats.com/fighter-details/07225ba28ae309b6",
       "ludovit klein": "http://ufcstats.com/fighter-details/5b86d491d63890c5",
       "dan hooker": "http://ufcstats.com/fighter-details/193b9d1858bc4df3",
       "rafael dos anjos": "http://ufcstats.com/fighter-details/6a2f7c151031653d",
@@ -36299,6 +35458,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "14",
       "NR",
       "NR",
@@ -36330,6 +35490,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "david onama",
+        "opponent_url": "http://ufcstats.com/fighter-details/ffe9703408fb5964"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -36444,6 +35614,7 @@
       }
     ],
     "opponents": [
+      "david onama",
       "calvin kattar",
       "kyle nelson",
       "seungwoo choi",
@@ -36456,6 +35627,7 @@
       "desmond torres"
     ],
     "opponents_urls": {
+      "david onama": "http://ufcstats.com/fighter-details/ffe9703408fb5964",
       "calvin kattar": "http://ufcstats.com/fighter-details/751de04455cfaac0",
       "kyle nelson": "http://ufcstats.com/fighter-details/31f8081c7600da93",
       "seungwoo choi": "http://ufcstats.com/fighter-details/a68575214ecad140",
@@ -36478,18 +35650,18 @@
     "stance": "Orthodox",
     "reach_in": 70.0,
     "reach_cm": 177.8,
-    "total_fights": 9,
-    "wins": 5,
+    "total_fights": 10,
+    "wins": 6,
     "losses": 4,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 43.0,
-    "sig_strike_def": 60.0,
-    "sapm": 4.47,
-    "td_acc": 43.0,
-    "td_def": 77.0,
-    "sub_avg15": 0.2,
-    "ko_wins": 0,
+    "sig_strike_acc": 45.0,
+    "sig_strike_def": 61.0,
+    "sapm": 4.54,
+    "td_acc": 44.0,
+    "td_def": 76.0,
+    "sub_avg15": 0.5,
+    "ko_wins": 1,
     "sub_wins": 1,
     "unanimous_dec_wins": 4,
     "split_dec_wins": 0,
@@ -36503,6 +35675,7 @@
     "dq_losses": 0,
     "ranked_wins": 0,
     "win_opponent_ranks": [
+      "NR",
       "NR",
       "NR",
       "NR",
@@ -36521,9 +35694,9 @@
       "NR",
       "NR"
     ],
-    "ko_pct": 0.0,
-    "sub_pct": 20.0,
-    "dec_pct": 80.0,
+    "ko_pct": 16.600000000000005,
+    "sub_pct": 16.7,
+    "dec_pct": 66.7,
     "decision_scores": [
       [
         "27-30",
@@ -36567,9 +35740,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -36744,20 +35917,20 @@
     "stance": "Southpaw",
     "reach_in": 71.0,
     "reach_cm": 180.3,
-    "total_fights": 23,
-    "wins": 13,
+    "total_fights": 24,
+    "wins": 14,
     "losses": 10,
     "draws": 0,
     "avg_fight_time_sec": null,
     "sig_strike_acc": 42.0,
     "sig_strike_def": 57.0,
-    "sapm": 3.49,
+    "sapm": 3.53,
     "td_acc": 34.0,
-    "td_def": 58.0,
+    "td_def": 60.0,
     "sub_avg15": 0.1,
     "ko_wins": 3,
     "sub_wins": 2,
-    "unanimous_dec_wins": 5,
+    "unanimous_dec_wins": 6,
     "split_dec_wins": 3,
     "majority_dec_wins": 0,
     "dq_wins": 0,
@@ -36769,6 +35942,7 @@
     "dq_losses": 0,
     "ranked_wins": 9,
     "win_opponent_ranks": [
+      "NR",
       "NR",
       14,
       15,
@@ -36810,10 +35984,15 @@
       "NR",
       "NR"
     ],
-    "ko_pct": 23.1,
-    "sub_pct": 15.4,
-    "dec_pct": 61.5,
+    "ko_pct": 21.4,
+    "sub_pct": 14.3,
+    "dec_pct": 64.3,
     "decision_scores": [
+      [
+        "27-30",
+        "28-29",
+        "28-29"
+      ],
       [
         "28-29",
         "27-29",
@@ -36896,12 +36075,18 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "DECISION - UNANIMOUS",
         "rank": "NR",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "27-30",
+            "28-29",
+            "28-29"
+          ]
+        ],
         "opponent": "dustin stoltzfus",
         "opponent_url": "http://ufcstats.com/fighter-details/71505842fb6455c3"
       },
@@ -38096,16 +37281,16 @@
     "stance": "Orthodox",
     "reach_in": 68.0,
     "reach_cm": 172.7,
-    "total_fights": 15,
+    "total_fights": 16,
     "wins": 9,
-    "losses": 6,
+    "losses": 7,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 55.0,
-    "sig_strike_def": 56.0,
-    "sapm": 3.91,
+    "sig_strike_acc": 53.0,
+    "sig_strike_def": 55.0,
+    "sapm": 4.14,
     "td_acc": 32.0,
-    "td_def": 62.0,
+    "td_def": 60.0,
     "sub_avg15": 0.0,
     "ko_wins": 3,
     "sub_wins": 0,
@@ -38113,7 +37298,7 @@
     "split_dec_wins": 1,
     "majority_dec_wins": 0,
     "dq_wins": 0,
-    "ko_losses": 3,
+    "ko_losses": 4,
     "sub_losses": 1,
     "unanimous_dec_losses": 1,
     "split_dec_losses": 1,
@@ -38201,9 +37386,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -40549,16 +39734,16 @@
     "stance": "Orthodox",
     "reach_in": 64.0,
     "reach_cm": 162.6,
-    "total_fights": 2,
+    "total_fights": 3,
     "wins": 1,
-    "losses": 1,
+    "losses": 2,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 48.0,
-    "sig_strike_def": 58.0,
-    "sapm": 3.74,
-    "td_acc": 16.0,
-    "td_def": 50.0,
+    "sig_strike_acc": 42.0,
+    "sig_strike_def": 61.0,
+    "sapm": 4.53,
+    "td_acc": 9.0,
+    "td_def": 56.0,
     "sub_avg15": 0.0,
     "ko_wins": 0,
     "sub_wins": 0,
@@ -40568,7 +39753,7 @@
     "dq_wins": 0,
     "ko_losses": 1,
     "sub_losses": 0,
-    "unanimous_dec_losses": 0,
+    "unanimous_dec_losses": 1,
     "split_dec_losses": 0,
     "majority_dec_losses": 0,
     "dq_losses": 0,
@@ -40586,6 +39771,11 @@
     "dec_pct": 100.0,
     "decision_scores": [
       [
+        "27-30",
+        "28-29",
+        "28-29"
+      ],
+      [
         "28-29",
         "28-29",
         "29-28"
@@ -40597,12 +39787,18 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "DECISION - UNANIMOUS",
         "rank": "NR",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "27-30",
+            "28-29",
+            "28-29"
+          ]
+        ],
         "opponent": "jesus aguilar",
         "opponent_url": "http://ufcstats.com/fighter-details/c051c2e12d692b8a"
       },
@@ -43000,18 +42196,18 @@
     "stance": "Orthodox",
     "reach_in": 72.0,
     "reach_cm": 182.9,
-    "total_fights": 16,
-    "wins": 9,
+    "total_fights": 17,
+    "wins": 10,
     "losses": 7,
     "draws": 0,
     "avg_fight_time_sec": null,
     "sig_strike_acc": 40.0,
-    "sig_strike_def": 58.0,
-    "sapm": 4.6,
+    "sig_strike_def": 59.0,
+    "sapm": 4.5,
     "td_acc": 36.0,
     "td_def": 73.0,
     "sub_avg15": 0.1,
-    "ko_wins": 4,
+    "ko_wins": 5,
     "sub_wins": 0,
     "unanimous_dec_wins": 4,
     "split_dec_wins": 1,
@@ -43025,6 +42221,7 @@
     "dq_losses": 0,
     "ranked_wins": 3,
     "win_opponent_ranks": [
+      "NR",
       "NR",
       "NR",
       "NR",
@@ -43054,9 +42251,9 @@
       "13",
       "12"
     ],
-    "ko_pct": 44.4,
+    "ko_pct": 50.0,
     "sub_pct": 0.0,
-    "dec_pct": 55.6,
+    "dec_pct": 50.0,
     "decision_scores": [
       [
         "27-30",
@@ -43105,9 +42302,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -43408,7 +42605,6 @@
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
       "9",
       "9",
       "14",
@@ -43442,16 +42638,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "reinier de ridder",
-        "opponent_url": "http://ufcstats.com/fighter-details/d549cefc7c54ab78"
-      },
       {
         "year": 2025,
         "result": "win",
@@ -43586,7 +42772,6 @@
       }
     ],
     "opponents": [
-      "reinier de ridder",
       "roman dolidze",
       "brendan allen",
       "michel pereira",
@@ -43601,7 +42786,6 @@
       "jordan wright"
     ],
     "opponents_urls": {
-      "reinier de ridder": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
       "roman dolidze": "http://ufcstats.com/fighter-details/327d5f279895110d",
       "brendan allen": "http://ufcstats.com/fighter-details/2f181c0467965b98",
       "michel pereira": "http://ufcstats.com/fighter-details/595db60957de51d3",
@@ -46211,319 +45395,6 @@
     }
   },
   {
-    "name": "Austin Hubbard",
-    "url": [
-      "http://ufcstats.com/fighter-details/d2cd7a69cc55e7ed",
-      "https://www.roster.watch/fighters/austinhubbard.html"
-    ],
-    "weight_class": 155,
-    "stance": "Orthodox",
-    "reach_in": 71.0,
-    "reach_cm": 180.3,
-    "total_fights": 12,
-    "wins": 4,
-    "losses": 8,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 42.0,
-    "sig_strike_def": 55.0,
-    "sapm": 4.1,
-    "td_acc": 28.0,
-    "td_def": 68.0,
-    "sub_avg15": 0.1,
-    "ko_wins": 1,
-    "sub_wins": 0,
-    "unanimous_dec_wins": 3,
-    "split_dec_wins": 0,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 0,
-    "sub_losses": 2,
-    "unanimous_dec_losses": 4,
-    "split_dec_losses": 2,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 0,
-    "win_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 25.0,
-    "sub_pct": 0.0,
-    "dec_pct": 75.0,
-    "decision_scores": [
-      [
-        "27-30",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "29-28",
-        "28-29"
-      ],
-      [
-        "30-27",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2025,
-    "fight_records": [
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "rongzhu",
-        "opponent_url": "http://ufcstats.com/fighter-details/a13d755965a4ec9f"
-      },
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "29-28",
-            "28-29"
-          ]
-        ],
-        "opponent": "marquel mederos",
-        "opponent_url": "http://ufcstats.com/fighter-details/e2be0c1a9b886d92"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "30-27",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "alexander hernandez",
-        "opponent_url": "http://ufcstats.com/fighter-details/262a7d06203657e6"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "michal figlak",
-        "opponent_url": "http://ufcstats.com/fighter-details/b4c57a8c2b773e82"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "kurt holobaugh",
-        "opponent_url": "http://ufcstats.com/fighter-details/a7151778b3381036"
-      },
-      {
-        "year": 2021,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "vinc pichel",
-        "opponent_url": "http://ufcstats.com/fighter-details/c77a953488e5607d"
-      },
-      {
-        "year": 2021,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "dakota bush",
-        "opponent_url": "http://ufcstats.com/fighter-details/3033c1c080672475"
-      },
-      {
-        "year": 2020,
-        "result": "loss",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "joe solecki",
-        "opponent_url": "http://ufcstats.com/fighter-details/af65aa688d13eedf"
-      },
-      {
-        "year": 2020,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "max rohskopf",
-        "opponent_url": "http://ufcstats.com/fighter-details/59a27d2e6d0802ac"
-      },
-      {
-        "year": 2020,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "mark madsen",
-        "opponent_url": "http://ufcstats.com/fighter-details/da0995f19b749cfa"
-      },
-      {
-        "year": 2019,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "kyle prepolec",
-        "opponent_url": "http://ufcstats.com/fighter-details/873626e5547b5235"
-      },
-      {
-        "year": 2019,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "davi ramos",
-        "opponent_url": "http://ufcstats.com/fighter-details/0052de90691d4a93"
-      }
-    ],
-    "opponents": [
-      "rongzhu",
-      "marquel mederos",
-      "alexander hernandez",
-      "michal figlak",
-      "kurt holobaugh",
-      "vinc pichel",
-      "dakota bush",
-      "joe solecki",
-      "max rohskopf",
-      "mark madsen",
-      "kyle prepolec",
-      "davi ramos"
-    ],
-    "opponents_urls": {
-      "rongzhu": "http://ufcstats.com/fighter-details/a13d755965a4ec9f",
-      "marquel mederos": "http://ufcstats.com/fighter-details/e2be0c1a9b886d92",
-      "alexander hernandez": "http://ufcstats.com/fighter-details/262a7d06203657e6",
-      "michal figlak": "http://ufcstats.com/fighter-details/b4c57a8c2b773e82",
-      "kurt holobaugh": "http://ufcstats.com/fighter-details/a7151778b3381036",
-      "vinc pichel": "http://ufcstats.com/fighter-details/c77a953488e5607d",
-      "dakota bush": "http://ufcstats.com/fighter-details/3033c1c080672475",
-      "joe solecki": "http://ufcstats.com/fighter-details/af65aa688d13eedf",
-      "max rohskopf": "http://ufcstats.com/fighter-details/59a27d2e6d0802ac",
-      "mark madsen": "http://ufcstats.com/fighter-details/da0995f19b749cfa",
-      "kyle prepolec": "http://ufcstats.com/fighter-details/873626e5547b5235",
-      "davi ramos": "http://ufcstats.com/fighter-details/0052de90691d4a93"
-    }
-  },
-  {
     "name": "Alibi Idiris",
     "url": [
       "http://ufcstats.com/fighter-details/30cad5a751adcb48",
@@ -48232,171 +47103,6 @@
     }
   },
   {
-    "name": "Baergeng Jieleyisi",
-    "url": [
-      "http://ufcstats.com/fighter-details/8677e67a75d65b8e",
-      "https://www.roster.watch/fighters/baergengjieleyisi.html"
-    ],
-    "weight_class": 145,
-    "stance": "Orthodox",
-    "reach_in": 71.0,
-    "reach_cm": 180.3,
-    "total_fights": 5,
-    "wins": 2,
-    "losses": 3,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 35.0,
-    "sig_strike_def": 52.0,
-    "sapm": 2.62,
-    "td_acc": 38.0,
-    "td_def": 78.0,
-    "sub_avg15": 0.2,
-    "ko_wins": 0,
-    "sub_wins": 1,
-    "unanimous_dec_wins": 1,
-    "split_dec_wins": 0,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 0,
-    "sub_losses": 0,
-    "unanimous_dec_losses": 2,
-    "split_dec_losses": 1,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 0,
-    "win_opponent_ranks": [
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 0.0,
-    "sub_pct": 50.0,
-    "dec_pct": 50.0,
-    "decision_scores": [
-      [
-        "27-30",
-        "27-30",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "28-29"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "29-28",
-        "28-29"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2025,
-    "fight_records": [
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "28-29"
-          ]
-        ],
-        "opponent": "sebastian szalay",
-        "opponent_url": "http://ufcstats.com/fighter-details/f201f21cf2c79eb2"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "28-29"
-          ]
-        ],
-        "opponent": "suyoung you",
-        "opponent_url": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "tokitaka nakanishi",
-        "opponent_url": "http://ufcstats.com/fighter-details/eb9446a4f44e19cf"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "li yunfeng",
-        "opponent_url": "http://ufcstats.com/fighter-details/4c7afd56ef1947ac"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "29-28",
-            "28-29"
-          ]
-        ],
-        "opponent": "shuya kamikubo",
-        "opponent_url": "http://ufcstats.com/fighter-details/a46fa1c7972548d0"
-      }
-    ],
-    "opponents": [
-      "sebastian szalay",
-      "suyoung you",
-      "tokitaka nakanishi",
-      "li yunfeng",
-      "shuya kamikubo"
-    ],
-    "opponents_urls": {
-      "sebastian szalay": "http://ufcstats.com/fighter-details/f201f21cf2c79eb2",
-      "suyoung you": "http://ufcstats.com/fighter-details/a474aade8eb3a8f0",
-      "tokitaka nakanishi": "http://ufcstats.com/fighter-details/eb9446a4f44e19cf",
-      "li yunfeng": "http://ufcstats.com/fighter-details/4c7afd56ef1947ac",
-      "shuya kamikubo": "http://ufcstats.com/fighter-details/a46fa1c7972548d0"
-    }
-  },
-  {
     "name": "Miles Johns",
     "url": [
       "http://ufcstats.com/fighter-details/46e0d677f91bacc0",
@@ -49664,6 +48370,86 @@
       "jimmy flick": "http://ufcstats.com/fighter-details/09e62c450e754913",
       "zhalgas zhumagulov": "http://ufcstats.com/fighter-details/55fa6ce3e522c8bb",
       "muhammad mokaev": "http://ufcstats.com/fighter-details/75353550928a7921"
+    }
+  },
+  {
+    "name": "Donte Johnson",
+    "url": [
+      "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
+      "https://www.roster.watch/fighters/dontejohnson.html"
+    ],
+    "weight_class": 185,
+    "stance": "Southpaw",
+    "reach_in": 74.0,
+    "reach_cm": 188.0,
+    "total_fights": 1,
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "avg_fight_time_sec": null,
+    "sig_strike_acc": 71.0,
+    "sig_strike_def": 50.0,
+    "sapm": 8.44,
+    "td_acc": 0.0,
+    "td_def": 0.0,
+    "sub_avg15": 0.0,
+    "ko_wins": 1,
+    "sub_wins": 0,
+    "unanimous_dec_wins": 0,
+    "split_dec_wins": 0,
+    "majority_dec_wins": 0,
+    "dq_wins": 0,
+    "ko_losses": 0,
+    "sub_losses": 0,
+    "unanimous_dec_losses": 0,
+    "split_dec_losses": 0,
+    "majority_dec_losses": 0,
+    "dq_losses": 0,
+    "ranked_wins": 0,
+    "win_opponent_ranks": [
+      "NR"
+    ],
+    "all_opponent_ranks": [
+      "NR",
+      "NR"
+    ],
+    "ko_pct": 100.0,
+    "sub_pct": 0.0,
+    "dec_pct": 0.0,
+    "decision_scores": [],
+    "championship_wins": 0,
+    "championship_losses": 0,
+    "championship_fights": 0,
+    "most_recent_year": 2025,
+    "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "nick klein",
+        "opponent_url": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa"
+      },
+      {
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "darion abbey",
+        "opponent_url": "http://ufcstats.com/fighter-details/4961467134abd8be"
+      }
+    ],
+    "opponents": [
+      "nick klein",
+      "darion abbey"
+    ],
+    "opponents_urls": {
+      "nick klein": "http://ufcstats.com/fighter-details/7eaa5e31c2dd86aa",
+      "darion abbey": "http://ufcstats.com/fighter-details/4961467134abd8be"
     }
   },
   {
@@ -51915,6 +50701,7 @@
     "all_opponent_ranks": [
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -51926,6 +50713,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "donte johnson",
+        "opponent_url": "http://ufcstats.com/fighter-details/ad5cb64af10fc946"
+      },
       {
         "year": 2025,
         "result": "loss",
@@ -51958,11 +50755,13 @@
       }
     ],
     "opponents": [
+      "donte johnson",
       "andrey pulyaev",
       "mansur abdulmalik",
       "heraldo souza"
     ],
     "opponents_urls": {
+      "donte johnson": "http://ufcstats.com/fighter-details/ad5cb64af10fc946",
       "andrey pulyaev": "http://ufcstats.com/fighter-details/22e07d3da1aa3475",
       "mansur abdulmalik": "http://ufcstats.com/fighter-details/841695e02c99a521",
       "heraldo souza": "http://ufcstats.com/fighter-details/22b43be04d7454d0"
@@ -52447,6 +51246,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "13",
       "NR",
       "NR",
@@ -52483,6 +51283,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "gregory rodrigues",
+        "opponent_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd"
+      },
       {
         "year": 2025,
         "result": "loss",
@@ -52603,6 +51413,7 @@
       }
     ],
     "opponents": [
+      "gregory rodrigues",
       "paulo costa",
       "chris curtis",
       "cesar almeida",
@@ -52615,6 +51426,7 @@
       "karl roberson"
     ],
     "opponents_urls": {
+      "gregory rodrigues": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
       "paulo costa": "http://ufcstats.com/fighter-details/2e5c2aa8e4ab9d82",
       "chris curtis": "http://ufcstats.com/fighter-details/5442f1bc4b47eaf3",
       "cesar almeida": "http://ufcstats.com/fighter-details/64d47ef881a437a4",
@@ -53102,6 +51914,96 @@
     }
   },
   {
+    "name": "Luan Lacerda",
+    "url": [
+      "http://ufcstats.com/fighter-details/6fc506e1099afe20",
+      "https://www.roster.watch/fighters/luanlacerda.html"
+    ],
+    "weight_class": 135,
+    "stance": "Orthodox",
+    "reach_in": 71.0,
+    "reach_cm": 180.3,
+    "total_fights": 2,
+    "wins": 0,
+    "losses": 2,
+    "draws": 0,
+    "avg_fight_time_sec": null,
+    "sig_strike_acc": 44.0,
+    "sig_strike_def": 47.0,
+    "sapm": 7.07,
+    "td_acc": 25.0,
+    "td_def": 75.0,
+    "sub_avg15": 0.6,
+    "ko_wins": 0,
+    "sub_wins": 0,
+    "unanimous_dec_wins": 0,
+    "split_dec_wins": 0,
+    "majority_dec_wins": 0,
+    "dq_wins": 0,
+    "ko_losses": 1,
+    "sub_losses": 0,
+    "unanimous_dec_losses": 1,
+    "split_dec_losses": 0,
+    "majority_dec_losses": 0,
+    "dq_losses": 0,
+    "ranked_wins": 0,
+    "win_opponent_ranks": [],
+    "all_opponent_ranks": [
+      "NR",
+      "NR"
+    ],
+    "ko_pct": 100.0,
+    "sub_pct": 0.0,
+    "dec_pct": 0.0,
+    "decision_scores": [
+      [
+        "28-29",
+        "28-29",
+        "28-29"
+      ]
+    ],
+    "championship_wins": 0,
+    "championship_losses": 0,
+    "championship_fights": 0,
+    "most_recent_year": 2023,
+    "fight_records": [
+      {
+        "year": 2023,
+        "result": "loss",
+        "method": "KO/TKO",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "damon blackshear",
+        "opponent_url": "http://ufcstats.com/fighter-details/da22387a0407a2dc"
+      },
+      {
+        "year": 2023,
+        "result": "loss",
+        "method": "DECISION - UNANIMOUS",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [
+          [
+            "28-29",
+            "28-29",
+            "28-29"
+          ]
+        ],
+        "opponent": "cody stamann",
+        "opponent_url": "http://ufcstats.com/fighter-details/bf7ad5628363eec9"
+      }
+    ],
+    "opponents": [
+      "damon blackshear",
+      "cody stamann"
+    ],
+    "opponents_urls": {
+      "damon blackshear": "http://ufcstats.com/fighter-details/da22387a0407a2dc",
+      "cody stamann": "http://ufcstats.com/fighter-details/bf7ad5628363eec9"
+    }
+  },
+  {
     "name": "Nate Landwehr",
     "url": [
       "http://ufcstats.com/fighter-details/583ee11abddfc581",
@@ -53503,24 +52405,24 @@
     "stance": "Orthodox",
     "reach_in": 70.0,
     "reach_cm": 177.8,
-    "total_fights": 3,
+    "total_fights": 4,
     "wins": 1,
-    "losses": 2,
+    "losses": 3,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 37.0,
-    "sig_strike_def": 47.0,
-    "sapm": 4.53,
-    "td_acc": 35.0,
+    "sig_strike_acc": 38.0,
+    "sig_strike_def": 49.0,
+    "sapm": 4.59,
+    "td_acc": 33.0,
     "td_def": 100.0,
-    "sub_avg15": 0.5,
+    "sub_avg15": 0.4,
     "ko_wins": 0,
     "sub_wins": 1,
     "unanimous_dec_wins": 0,
     "split_dec_wins": 0,
     "majority_dec_wins": 0,
     "dq_wins": 0,
-    "ko_losses": 1,
+    "ko_losses": 2,
     "sub_losses": 0,
     "unanimous_dec_losses": 1,
     "split_dec_losses": 0,
@@ -53552,9 +52454,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -55453,18 +54355,18 @@
     "stance": "Orthodox",
     "reach_in": 72.0,
     "reach_cm": 182.9,
-    "total_fights": 8,
-    "wins": 5,
+    "total_fights": 9,
+    "wins": 6,
     "losses": 3,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 47.0,
-    "sig_strike_def": 46.0,
-    "sapm": 4.76,
-    "td_acc": 40.0,
+    "sig_strike_acc": 48.0,
+    "sig_strike_def": 47.0,
+    "sapm": 4.72,
+    "td_acc": 55.0,
     "td_def": 67.0,
-    "sub_avg15": 1.9,
-    "ko_wins": 2,
+    "sub_avg15": 1.7,
+    "ko_wins": 3,
     "sub_wins": 1,
     "unanimous_dec_wins": 2,
     "split_dec_wins": 0,
@@ -55476,8 +54378,9 @@
     "split_dec_losses": 0,
     "majority_dec_losses": 0,
     "dq_losses": 0,
-    "ranked_wins": 3,
+    "ranked_wins": 4,
     "win_opponent_ranks": [
+      10,
       3,
       13,
       13,
@@ -55485,7 +54388,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
+      "10",
       "1",
       "3",
       "13",
@@ -55495,9 +54398,9 @@
       "10",
       "NR"
     ],
-    "ko_pct": 40.0,
-    "sub_pct": 20.0,
-    "dec_pct": 40.0,
+    "ko_pct": 50.0,
+    "sub_pct": 16.7,
+    "dec_pct": 33.3,
     "decision_scores": [
       [
         "46-49",
@@ -55531,10 +54434,10 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
+        "rank": "10",
         "is_title": false,
         "scores": [],
         "opponent": "jean silva",
@@ -55801,20 +54704,20 @@
     ],
     "weight_class": 135,
     "stance": "Orthodox",
-    "reach_in": null,
-    "reach_cm": null,
+    "reach_in": 74.0,
+    "reach_cm": 188.0,
     "total_fights": 1,
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 0.0,
-    "sig_strike_def": 0.0,
-    "sapm": 0.0,
+    "sig_strike_acc": 37.0,
+    "sig_strike_def": 50.0,
+    "sapm": 4.29,
     "td_acc": 0.0,
-    "td_def": 0.0,
+    "td_def": 100.0,
     "sub_avg15": 0.0,
-    "ko_wins": 0,
+    "ko_wins": 1,
     "sub_wins": 0,
     "unanimous_dec_wins": 0,
     "split_dec_wins": 0,
@@ -55827,7 +54730,9 @@
     "majority_dec_losses": 0,
     "dq_losses": 0,
     "ranked_wins": 0,
-    "win_opponent_ranks": [],
+    "win_opponent_ranks": [
+      "NR"
+    ],
     "all_opponent_ranks": [
       "NR"
     ],
@@ -55838,12 +54743,12 @@
     "championship_wins": 0,
     "championship_losses": 0,
     "championship_fights": 0,
-    "most_recent_year": 0,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -55911,7 +54816,6 @@
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
       "14",
       "14",
       "11",
@@ -55976,16 +54880,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "santiago ponzinibbio",
-        "opponent_url": "http://ufcstats.com/fighter-details/6d1bffff14897645"
-      },
       {
         "year": 2025,
         "result": "loss",
@@ -56254,7 +55148,6 @@
       }
     ],
     "opponents": [
-      "santiago ponzinibbio",
       "kevin holland",
       "themba gorimbo",
       "joaquin buckley",
@@ -56280,7 +55173,6 @@
       "michael graves"
     ],
     "opponents_urls": {
-      "santiago ponzinibbio": "http://ufcstats.com/fighter-details/6d1bffff14897645",
       "kevin holland": "http://ufcstats.com/fighter-details/3a46b268013afede",
       "themba gorimbo": "http://ufcstats.com/fighter-details/40f3cb27fc7305a1",
       "joaquin buckley": "http://ufcstats.com/fighter-details/b9437600497350f3",
@@ -57656,209 +56548,6 @@
       "michal oleksiejczuk": "http://ufcstats.com/fighter-details/0d65c432720accb9",
       "antonio trocoli": "http://ufcstats.com/fighter-details/6d48a2df51749d91",
       "bruno silva": "http://ufcstats.com/fighter-details/12ebd7d157e91701"
-    }
-  },
-  {
-    "name": "Maheshate",
-    "url": [
-      "http://ufcstats.com/fighter-details/8c1ca54b5089d199",
-      "https://www.roster.watch/fighters/maheshate.html"
-    ],
-    "weight_class": 155,
-    "stance": "Orthodox",
-    "reach_in": 71.0,
-    "reach_cm": 180.3,
-    "total_fights": 7,
-    "wins": 3,
-    "losses": 4,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 31.0,
-    "sig_strike_def": 51.0,
-    "sapm": 5.96,
-    "td_acc": 0.0,
-    "td_def": 47.0,
-    "sub_avg15": 0.0,
-    "ko_wins": 1,
-    "sub_wins": 0,
-    "unanimous_dec_wins": 1,
-    "split_dec_wins": 1,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 1,
-    "sub_losses": 0,
-    "unanimous_dec_losses": 3,
-    "split_dec_losses": 0,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 0,
-    "win_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 33.3,
-    "sub_pct": 0.0,
-    "dec_pct": 66.7,
-    "decision_scores": [
-      [
-        "27-30",
-        "28-29",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "29-28",
-        "28-29"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "28-29"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2025,
-    "fight_records": [
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "gauge young",
-        "opponent_url": "http://ufcstats.com/fighter-details/b2a78df161bd67f9"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "nikolas motta",
-        "opponent_url": "http://ufcstats.com/fighter-details/37f560436d745c18"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "29-28",
-            "28-29"
-          ]
-        ],
-        "opponent": "gabriel benitez",
-        "opponent_url": "http://ufcstats.com/fighter-details/436f970c9ea9169c"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "viacheslav borshchev",
-        "opponent_url": "http://ufcstats.com/fighter-details/19c591115a58982c"
-      },
-      {
-        "year": 2022,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "rafa garcia",
-        "opponent_url": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0"
-      },
-      {
-        "year": 2022,
-        "result": "win",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "steve garcia",
-        "opponent_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889"
-      },
-      {
-        "year": 2021,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "28-29"
-          ]
-        ],
-        "opponent": "achilles estremadura",
-        "opponent_url": "http://ufcstats.com/fighter-details/41f3cfdab0b22236"
-      }
-    ],
-    "opponents": [
-      "gauge young",
-      "nikolas motta",
-      "gabriel benitez",
-      "viacheslav borshchev",
-      "rafa garcia",
-      "steve garcia",
-      "achilles estremadura"
-    ],
-    "opponents_urls": {
-      "gauge young": "http://ufcstats.com/fighter-details/b2a78df161bd67f9",
-      "nikolas motta": "http://ufcstats.com/fighter-details/37f560436d745c18",
-      "gabriel benitez": "http://ufcstats.com/fighter-details/436f970c9ea9169c",
-      "viacheslav borshchev": "http://ufcstats.com/fighter-details/19c591115a58982c",
-      "rafa garcia": "http://ufcstats.com/fighter-details/e132d47bd9efbbe0",
-      "steve garcia": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889",
-      "achilles estremadura": "http://ufcstats.com/fighter-details/41f3cfdab0b22236"
     }
   },
   {
@@ -59763,20 +58452,20 @@
     "stance": "Orthodox",
     "reach_in": 67.0,
     "reach_cm": 170.2,
-    "total_fights": 2,
-    "wins": 2,
+    "total_fights": 3,
+    "wins": 3,
     "losses": 0,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 52.0,
-    "sig_strike_def": 67.0,
-    "sapm": 2.7,
+    "sig_strike_acc": 47.0,
+    "sig_strike_def": 68.0,
+    "sapm": 2.95,
     "td_acc": 0.0,
     "td_def": 100.0,
     "sub_avg15": 0.0,
     "ko_wins": 1,
     "sub_wins": 0,
-    "unanimous_dec_wins": 1,
+    "unanimous_dec_wins": 2,
     "split_dec_wins": 0,
     "majority_dec_wins": 0,
     "dq_wins": 0,
@@ -59786,20 +58475,26 @@
     "split_dec_losses": 0,
     "majority_dec_losses": 0,
     "dq_losses": 0,
-    "ranked_wins": 0,
+    "ranked_wins": 1,
     "win_opponent_ranks": [
+      9,
       "NR",
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
+      "9",
       "NR",
       "NR"
     ],
-    "ko_pct": 50.0,
+    "ko_pct": 33.3,
     "sub_pct": 0.0,
-    "dec_pct": 50.0,
+    "dec_pct": 66.7,
     "decision_scores": [
+      [
+        "28-29",
+        "28-29",
+        "28-29"
+      ],
       [
         "27-30",
         "27-30",
@@ -59812,12 +58507,18 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
+        "year": 2025,
+        "result": "win",
+        "method": "DECISION - UNANIMOUS",
+        "rank": "9",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "28-29",
+            "28-29",
+            "28-29"
+          ]
+        ],
         "opponent": "rob font",
         "opponent_url": "http://ufcstats.com/fighter-details/05339613bf8e9808"
       },
@@ -60532,6 +59233,7 @@
     ],
     "all_opponent_ranks": [
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -60549,6 +59251,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "baisangur susurkaev",
+        "opponent_url": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -60577,10 +59289,12 @@
       }
     ],
     "opponents": [
+      "baisangur susurkaev",
       "cody brundage",
       "nursulton ruziboev"
     ],
     "opponents_urls": {
+      "baisangur susurkaev": "http://ufcstats.com/fighter-details/d1feea7a4bdcd503",
       "cody brundage": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
       "nursulton ruziboev": "http://ufcstats.com/fighter-details/49d2a08964c5eb11"
     }
@@ -62734,6 +61448,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "13",
       "NR",
       "NR",
@@ -62781,6 +61496,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "kyle daukaus",
+        "opponent_url": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440"
+      },
       {
         "year": 2025,
         "result": "loss",
@@ -63053,6 +61778,7 @@
       }
     ],
     "opponents": [
+      "kyle daukaus",
       "michal oleksiejczuk",
       "brad tavares",
       "reinier de ridder",
@@ -63079,6 +61805,7 @@
       "joseph gigliotti"
     ],
     "opponents_urls": {
+      "kyle daukaus": "http://ufcstats.com/fighter-details/d6c0cdd7e467c440",
       "michal oleksiejczuk": "http://ufcstats.com/fighter-details/0d65c432720accb9",
       "brad tavares": "http://ufcstats.com/fighter-details/0c6d9ea8306c029e",
       "reinier de ridder": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
@@ -63521,7 +62248,6 @@
     ],
     "all_opponent_ranks": [
       "NR",
-      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -63539,16 +62265,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "oban elliott",
-        "opponent_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134"
-      },
       {
         "year": 2025,
         "result": "win",
@@ -63577,12 +62293,10 @@
       }
     ],
     "opponents": [
-      "oban elliott",
       "kevin jousset",
       "mohamed ado"
     ],
     "opponents_urls": {
-      "oban elliott": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
       "kevin jousset": "http://ufcstats.com/fighter-details/dda15dbfafb792df",
       "mohamed ado": "http://ufcstats.com/fighter-details/7a846fcbf182a7c8"
     }
@@ -71310,6 +70024,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "13",
       "NR",
       "NR",
@@ -71333,6 +70048,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "rodolfo vieira",
+        "opponent_url": "http://ufcstats.com/fighter-details/260e9e0d4954aea6"
+      },
       {
         "year": 2025,
         "result": "loss",
@@ -71411,6 +70136,7 @@
       }
     ],
     "opponents": [
+      "rodolfo vieira",
       "reinier de ridder",
       "paul craig",
       "cody brundage",
@@ -71420,6 +70146,7 @@
       "zachary borrego"
     ],
     "opponents_urls": {
+      "rodolfo vieira": "http://ufcstats.com/fighter-details/260e9e0d4954aea6",
       "reinier de ridder": "http://ufcstats.com/fighter-details/d549cefc7c54ab78",
       "paul craig": "http://ufcstats.com/fighter-details/eabf206b162b3b83",
       "cody brundage": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
@@ -71805,8 +70532,8 @@
         "rank": "NR",
         "is_title": false,
         "scores": [],
-        "opponent": "evan elder",
-        "opponent_url": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e"
+        "opponent": "charlie campbell",
+        "opponent_url": "http://ufcstats.com/fighter-details/b39f7a6c2be17ee8"
       },
       {
         "year": 2025,
@@ -71872,7 +70599,7 @@
       }
     ],
     "opponents": [
-      "evan elder",
+      "charlie campbell",
       "viacheslav borshchev",
       "alex reyes",
       "victor martinez",
@@ -71880,7 +70607,7 @@
       "bogdan grad"
     ],
     "opponents_urls": {
-      "evan elder": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e",
+      "charlie campbell": "http://ufcstats.com/fighter-details/b39f7a6c2be17ee8",
       "viacheslav borshchev": "http://ufcstats.com/fighter-details/19c591115a58982c",
       "alex reyes": "http://ufcstats.com/fighter-details/dc07493a87dc0a6e",
       "victor martinez": "http://ufcstats.com/fighter-details/3e708ce33b6b18e6",
@@ -74539,6 +73266,73 @@
     }
   },
   {
+    "name": "Cezary Oleksiejczuk",
+    "url": [
+      "http://ufcstats.com/fighter-details/084532da3d25f3b8",
+      "https://www.roster.watch/fighters/cezaryoleksiejczuk.html"
+    ],
+    "weight_class": 185,
+    "stance": "Southpaw",
+    "reach_in": 75.0,
+    "reach_cm": 190.5,
+    "total_fights": 1,
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "avg_fight_time_sec": null,
+    "sig_strike_acc": 100.0,
+    "sig_strike_def": 100.0,
+    "sapm": 0.0,
+    "td_acc": 0.0,
+    "td_def": 100.0,
+    "sub_avg15": 0.0,
+    "ko_wins": 1,
+    "sub_wins": 0,
+    "unanimous_dec_wins": 0,
+    "split_dec_wins": 0,
+    "majority_dec_wins": 0,
+    "dq_wins": 0,
+    "ko_losses": 0,
+    "sub_losses": 0,
+    "unanimous_dec_losses": 0,
+    "split_dec_losses": 0,
+    "majority_dec_losses": 0,
+    "dq_losses": 0,
+    "ranked_wins": 0,
+    "win_opponent_ranks": [
+      "NR"
+    ],
+    "all_opponent_ranks": [
+      "NR"
+    ],
+    "ko_pct": 100.0,
+    "sub_pct": 0.0,
+    "dec_pct": 0.0,
+    "decision_scores": [],
+    "championship_wins": 0,
+    "championship_losses": 0,
+    "championship_fights": 0,
+    "most_recent_year": 2025,
+    "fight_records": [
+      {
+        "year": 2025,
+        "result": "win",
+        "method": "KO/TKO",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "theo haig",
+        "opponent_url": "http://ufcstats.com/fighter-details/8a213af406eb2dd4"
+      }
+    ],
+    "opponents": [
+      "theo haig"
+    ],
+    "opponents_urls": {
+      "theo haig": "http://ufcstats.com/fighter-details/8a213af406eb2dd4"
+    }
+  },
+  {
     "name": "Charles Oliveira",
     "url": [
       "http://ufcstats.com/fighter-details/07225ba28ae309b6",
@@ -74677,8 +73471,8 @@
         "rank": "NR",
         "is_title": false,
         "scores": [],
-        "opponent": "rafael fiziev",
-        "opponent_url": "http://ufcstats.com/fighter-details/c814b4c899793af6"
+        "opponent": "mateusz gamrot",
+        "opponent_url": "http://ufcstats.com/fighter-details/72db2a14ffa73ece"
       },
       {
         "year": 2025,
@@ -75062,7 +73856,7 @@
       }
     ],
     "opponents": [
-      "rafael fiziev",
+      "mateusz gamrot",
       "ilia topuria",
       "michael chandler",
       "arman tsarukyan",
@@ -75100,7 +73894,7 @@
       "darren elkins"
     ],
     "opponents_urls": {
-      "rafael fiziev": "http://ufcstats.com/fighter-details/c814b4c899793af6",
+      "mateusz gamrot": "http://ufcstats.com/fighter-details/72db2a14ffa73ece",
       "ilia topuria": "http://ufcstats.com/fighter-details/54f64b5e283b0ce7",
       "michael chandler": "http://ufcstats.com/fighter-details/4b93a88f3b1de35b",
       "arman tsarukyan": "http://ufcstats.com/fighter-details/eae48ff31db420c2",
@@ -75463,6 +74257,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
+      "NR",
       "12",
       "NR",
       "NR",
@@ -75507,6 +74302,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "steve garcia",
+        "opponent_url": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -75619,6 +74424,7 @@
       }
     ],
     "opponents": [
+      "steve garcia",
       "giga chikadze",
       "roberto romero",
       "jonathan pearce",
@@ -75629,6 +74435,7 @@
       "mason jones"
     ],
     "opponents_urls": {
+      "steve garcia": "http://ufcstats.com/fighter-details/97cf1a2c7c5e7889",
       "giga chikadze": "http://ufcstats.com/fighter-details/9560ff14eb3129f7",
       "roberto romero": "http://ufcstats.com/fighter-details/15ea371202eb25e1",
       "jonathan pearce": "http://ufcstats.com/fighter-details/87c0b1c696ddfb43",
@@ -77836,184 +76643,6 @@
     }
   },
   {
-    "name": "Preston Parsons",
-    "url": [
-      "http://ufcstats.com/fighter-details/9fe7af8b3fbe00a0",
-      "https://www.roster.watch/fighters/prestonparsons.html"
-    ],
-    "weight_class": 170,
-    "stance": "Orthodox",
-    "reach_in": 71.0,
-    "reach_cm": 180.3,
-    "total_fights": 6,
-    "wins": 2,
-    "losses": 4,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 51.0,
-    "sig_strike_def": 54.0,
-    "sapm": 3.25,
-    "td_acc": 36.0,
-    "td_def": 71.0,
-    "sub_avg15": 2.3,
-    "ko_wins": 0,
-    "sub_wins": 0,
-    "unanimous_dec_wins": 2,
-    "split_dec_wins": 0,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 2,
-    "sub_losses": 0,
-    "unanimous_dec_losses": 1,
-    "split_dec_losses": 1,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 0,
-    "win_opponent_ranks": [
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 0.0,
-    "sub_pct": 0.0,
-    "dec_pct": 100.0,
-    "decision_scores": [
-      [
-        "28-29",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "27-30",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "29-28",
-        "28-29"
-      ],
-      [
-        "26-30",
-        "27-30",
-        "27-30"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2025,
-    "fight_records": [
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jacobe smith",
-        "opponent_url": "http://ufcstats.com/fighter-details/85497ffd934ecf7e"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "oban elliott",
-        "opponent_url": "http://ufcstats.com/fighter-details/6b56e94a59b7b134"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "27-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "matthew semelsberger",
-        "opponent_url": "http://ufcstats.com/fighter-details/4aa58269d0664b5b"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "29-28",
-            "28-29"
-          ]
-        ],
-        "opponent": "trevin giles",
-        "opponent_url": "http://ufcstats.com/fighter-details/b27a1fcb56a3035a"
-      },
-      {
-        "year": 2022,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "26-30",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "evan elder",
-        "opponent_url": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e"
-      },
-      {
-        "year": 2021,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "daniel rodriguez",
-        "opponent_url": "http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6"
-      }
-    ],
-    "opponents": [
-      "jacobe smith",
-      "oban elliott",
-      "matthew semelsberger",
-      "trevin giles",
-      "evan elder",
-      "daniel rodriguez"
-    ],
-    "opponents_urls": {
-      "jacobe smith": "http://ufcstats.com/fighter-details/85497ffd934ecf7e",
-      "oban elliott": "http://ufcstats.com/fighter-details/6b56e94a59b7b134",
-      "matthew semelsberger": "http://ufcstats.com/fighter-details/4aa58269d0664b5b",
-      "trevin giles": "http://ufcstats.com/fighter-details/b27a1fcb56a3035a",
-      "evan elder": "http://ufcstats.com/fighter-details/d9a56ecb6e94f02e",
-      "daniel rodriguez": "http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6"
-    }
-  },
-  {
     "name": "Sam Patterson",
     "url": [
       "http://ufcstats.com/fighter-details/8b6e5dc2ba1edbe7",
@@ -79396,10 +78025,10 @@
       "http://ufcstats.com/fighter-details/d0fd0d9ee560dae7",
       "https://www.roster.watch/fighters/brandopericic.html"
     ],
-    "weight_class": 265,
-    "stance": null,
-    "reach_in": null,
-    "reach_cm": null,
+    "weight_class": 245,
+    "stance": "Orthodox",
+    "reach_in": 79.0,
+    "reach_cm": 200.7,
     "total_fights": 1,
     "wins": 0,
     "losses": 0,
@@ -80761,7 +79390,6 @@
       "NR",
       "NR",
       "NR",
-      "NR",
       "14",
       "12",
       "NR",
@@ -80828,16 +79456,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "vicente luque",
-        "opponent_url": "http://ufcstats.com/fighter-details/6d4b63c767106d3a"
-      },
       {
         "year": 2025,
         "result": "loss",
@@ -81088,7 +79706,6 @@
       }
     ],
     "opponents": [
-      "vicente luque",
       "daniel rodriguez",
       "carlston harris",
       "muslim salikhov",
@@ -81111,7 +79728,6 @@
       "ryan laflare"
     ],
     "opponents_urls": {
-      "vicente luque": "http://ufcstats.com/fighter-details/6d4b63c767106d3a",
       "daniel rodriguez": "http://ufcstats.com/fighter-details/8a1f3b5c526cd6e6",
       "carlston harris": "http://ufcstats.com/fighter-details/a53d30163304aa6e",
       "muslim salikhov": "http://ufcstats.com/fighter-details/447f9858ae78f921",
@@ -82378,17 +80994,17 @@
     "stance": "Southpaw",
     "reach_in": 72.0,
     "reach_cm": 182.9,
-    "total_fights": 8,
+    "total_fights": 9,
     "wins": 5,
-    "losses": 3,
+    "losses": 4,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 49.0,
-    "sig_strike_def": 46.0,
-    "sapm": 2.78,
-    "td_acc": 36.0,
+    "sig_strike_acc": 46.0,
+    "sig_strike_def": 48.0,
+    "sapm": 2.62,
+    "td_acc": 33.0,
     "td_def": 60.0,
-    "sub_avg15": 1.2,
+    "sub_avg15": 1.0,
     "ko_wins": 0,
     "sub_wins": 3,
     "unanimous_dec_wins": 2,
@@ -82398,7 +81014,7 @@
     "ko_losses": 2,
     "sub_losses": 0,
     "unanimous_dec_losses": 0,
-    "split_dec_losses": 1,
+    "split_dec_losses": 2,
     "majority_dec_losses": 0,
     "dq_losses": 0,
     "ranked_wins": 0,
@@ -82425,6 +81041,11 @@
     "dec_pct": 40.0,
     "decision_scores": [
       [
+        "28-29",
+        "29-28",
+        "28-29"
+      ],
+      [
         "27-30",
         "29-28",
         "28-29"
@@ -82443,15 +81064,21 @@
     "championship_wins": 0,
     "championship_losses": 1,
     "championship_fights": 1,
-    "most_recent_year": 2024,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "DECISION - SPLIT",
         "rank": "NR",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "28-29",
+            "29-28",
+            "28-29"
+          ]
+        ],
         "opponent": "joaquim silva",
         "opponent_url": "http://ufcstats.com/fighter-details/ae7fe94f117f98cf"
       },
@@ -83196,6 +81823,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 50.0,
@@ -83213,6 +81841,16 @@
     "championship_fights": 0,
     "most_recent_year": 2024,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "adrian yanez",
+        "opponent_url": "http://ufcstats.com/fighter-details/0232cabbc30a2372"
+      },
       {
         "year": 2024,
         "result": "loss",
@@ -83261,12 +81899,14 @@
       }
     ],
     "opponents": [
+      "adrian yanez",
       "raoni barcelos",
       "kyung ho kang",
       "khalid taha",
       "xiao long"
     ],
     "opponents_urls": {
+      "adrian yanez": "http://ufcstats.com/fighter-details/0232cabbc30a2372",
       "raoni barcelos": "http://ufcstats.com/fighter-details/b9f28e7045fdfce7",
       "kyung ho kang": "http://ufcstats.com/fighter-details/a7897d200692ab64",
       "khalid taha": "http://ufcstats.com/fighter-details/b4537562f88ac582",
@@ -84718,9 +83358,9 @@
     "losses": 2,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 54.0,
-    "sig_strike_def": 43.0,
-    "sapm": 2.99,
+    "sig_strike_acc": 53.0,
+    "sig_strike_def": 45.0,
+    "sapm": 3.0,
     "td_acc": 58.0,
     "td_def": 57.0,
     "sub_avg15": 1.2,
@@ -84773,9 +83413,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "nc",
+        "method": "CNC",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -85769,6 +84409,7 @@
     ],
     "all_opponent_ranks": [
       "NR",
+      "NR",
       "7",
       "NR",
       "NR",
@@ -85806,6 +84447,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "roman kopylov",
+        "opponent_url": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -85946,6 +84597,7 @@
       }
     ],
     "opponents": [
+      "roman kopylov",
       "jack hermansson",
       "jared cannonier",
       "christian leroy duncan",
@@ -85960,6 +84612,7 @@
       "jordan williams"
     ],
     "opponents_urls": {
+      "roman kopylov": "http://ufcstats.com/fighter-details/9d83f6da776ff7d6",
       "jack hermansson": "http://ufcstats.com/fighter-details/0a1942069c9ad6b6",
       "jared cannonier": "http://ufcstats.com/fighter-details/13a0275fa13c4d26",
       "christian leroy duncan": "http://ufcstats.com/fighter-details/a93f94c923c3a9cb",
@@ -89551,123 +88204,6 @@
     }
   },
   {
-    "name": "Kiru Sahota",
-    "url": [
-      "http://ufcstats.com/fighter-details/296a120cb880477b",
-      "https://www.roster.watch/fighters/kirusahota.html"
-    ],
-    "weight_class": 125,
-    "stance": "Orthodox",
-    "reach_in": 73.0,
-    "reach_cm": 185.4,
-    "total_fights": 3,
-    "wins": 2,
-    "losses": 1,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 52.0,
-    "sig_strike_def": 41.0,
-    "sapm": 2.64,
-    "td_acc": 33.0,
-    "td_def": 50.0,
-    "sub_avg15": 0.5,
-    "ko_wins": 0,
-    "sub_wins": 0,
-    "unanimous_dec_wins": 1,
-    "split_dec_wins": 1,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 1,
-    "sub_losses": 0,
-    "unanimous_dec_losses": 0,
-    "split_dec_losses": 0,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 0,
-    "win_opponent_ranks": [
-      "NR",
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 0.0,
-    "sub_pct": 0.0,
-    "dec_pct": 100.0,
-    "decision_scores": [
-      [
-        "28-29",
-        "27-30",
-        "27-30"
-      ],
-      [
-        "28-29",
-        "28-29",
-        "30-27"
-      ]
-    ],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2024,
-    "fight_records": [
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "donghun choi",
-        "opponent_url": "http://ufcstats.com/fighter-details/3be16d817b36098b"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "DECISION - UNANIMOUS",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "27-30",
-            "27-30"
-          ]
-        ],
-        "opponent": "ruel panales",
-        "opponent_url": "http://ufcstats.com/fighter-details/2742f028399bf8c7"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "DECISION - SPLIT",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [
-          [
-            "28-29",
-            "28-29",
-            "30-27"
-          ]
-        ],
-        "opponent": "yin shuai",
-        "opponent_url": "http://ufcstats.com/fighter-details/a78dc3910554dbae"
-      }
-    ],
-    "opponents": [
-      "donghun choi",
-      "ruel panales",
-      "yin shuai"
-    ],
-    "opponents_urls": {
-      "donghun choi": "http://ufcstats.com/fighter-details/3be16d817b36098b",
-      "ruel panales": "http://ufcstats.com/fighter-details/2742f028399bf8c7",
-      "yin shuai": "http://ufcstats.com/fighter-details/a78dc3910554dbae"
-    }
-  },
-  {
     "name": "Benoit Saint Denis",
     "url": [
       "http://ufcstats.com/fighter-details/c2299ec916bc7c56",
@@ -91554,18 +90090,18 @@
     ],
     "weight_class": 170,
     "stance": "Orthodox",
-    "reach_in": null,
-    "reach_cm": null,
+    "reach_in": 71.0,
+    "reach_cm": 180.3,
     "total_fights": 1,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 0.0,
-    "sig_strike_def": 0.0,
-    "sapm": 0.0,
-    "td_acc": 0.0,
-    "td_def": 0.0,
+    "sig_strike_acc": 27.0,
+    "sig_strike_def": 42.0,
+    "sapm": 8.76,
+    "td_acc": 25.0,
+    "td_def": 66.0,
     "sub_avg15": 0.0,
     "ko_wins": 0,
     "sub_wins": 0,
@@ -91573,7 +90109,7 @@
     "split_dec_wins": 0,
     "majority_dec_wins": 0,
     "dq_wins": 0,
-    "ko_losses": 0,
+    "ko_losses": 1,
     "sub_losses": 0,
     "unanimous_dec_losses": 0,
     "split_dec_losses": 0,
@@ -91589,14 +90125,14 @@
     "dec_pct": 0.0,
     "decision_scores": [],
     "championship_wins": 0,
-    "championship_losses": 0,
+    "championship_losses": 1,
     "championship_fights": 1,
-    "most_recent_year": 0,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "KO/TKO",
         "rank": "NR",
         "is_title": true,
         "scores": [],
@@ -92118,24 +90654,24 @@
     "stance": "Orthodox",
     "reach_in": 69.0,
     "reach_cm": 175.3,
-    "total_fights": 6,
+    "total_fights": 7,
     "wins": 6,
-    "losses": 0,
+    "losses": 1,
     "draws": 0,
     "avg_fight_time_sec": null,
-    "sig_strike_acc": 52.0,
-    "sig_strike_def": 56.0,
-    "sapm": 4.13,
+    "sig_strike_acc": 51.0,
+    "sig_strike_def": 54.0,
+    "sapm": 4.69,
     "td_acc": 50.0,
-    "td_def": 86.0,
-    "sub_avg15": 0.9,
+    "td_def": 78.0,
+    "sub_avg15": 0.8,
     "ko_wins": 4,
     "sub_wins": 1,
     "unanimous_dec_wins": 1,
     "split_dec_wins": 0,
     "majority_dec_wins": 0,
     "dq_wins": 0,
-    "ko_losses": 0,
+    "ko_losses": 1,
     "sub_losses": 0,
     "unanimous_dec_losses": 0,
     "split_dec_losses": 0,
@@ -92151,7 +90687,7 @@
       "NR"
     ],
     "all_opponent_ranks": [
-      "NR",
+      "2",
       "13",
       "NR",
       "NR",
@@ -92175,10 +90711,10 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
+        "year": 2025,
+        "result": "loss",
+        "method": "KO/TKO",
+        "rank": "2",
         "is_title": false,
         "scores": [],
         "opponent": "diego lopes",
@@ -92280,21 +90816,21 @@
     "stance": "Southpaw",
     "reach_in": 69.0,
     "reach_cm": 175.3,
-    "total_fights": 11,
-    "wins": 6,
+    "total_fights": 12,
+    "wins": 7,
     "losses": 5,
     "draws": 0,
     "avg_fight_time_sec": null,
     "sig_strike_acc": 43.0,
     "sig_strike_def": 53.0,
-    "sapm": 4.53,
+    "sapm": 4.17,
     "td_acc": 50.0,
-    "td_def": 69.0,
+    "td_def": 70.0,
     "sub_avg15": 0.8,
     "ko_wins": 3,
     "sub_wins": 0,
     "unanimous_dec_wins": 1,
-    "split_dec_wins": 2,
+    "split_dec_wins": 3,
     "majority_dec_wins": 0,
     "dq_wins": 0,
     "ko_losses": 3,
@@ -92305,6 +90841,7 @@
     "dq_losses": 0,
     "ranked_wins": 0,
     "win_opponent_ranks": [
+      "NR",
       "NR",
       "NR",
       "NR",
@@ -92326,10 +90863,15 @@
       "NR",
       "NR"
     ],
-    "ko_pct": 50.0,
+    "ko_pct": 42.9,
     "sub_pct": 0.0,
-    "dec_pct": 50.0,
+    "dec_pct": 57.1,
     "decision_scores": [
+      [
+        "28-29",
+        "29-28",
+        "28-29"
+      ],
       [
         "28-29",
         "28-29",
@@ -92359,15 +90901,21 @@
     "championship_wins": 0,
     "championship_losses": 0,
     "championship_fights": 0,
-    "most_recent_year": 2024,
+    "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "DECISION - SPLIT",
         "rank": "NR",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "28-29",
+            "29-28",
+            "28-29"
+          ]
+        ],
         "opponent": "claudio puelles",
         "opponent_url": "http://ufcstats.com/fighter-details/d747eb273a40a920"
       },
@@ -94647,6 +93195,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 66.7,
@@ -94674,6 +93223,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "nikolay veretennikov",
+        "opponent_url": "http://ufcstats.com/fighter-details/0f1efce7d2571d10"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -94794,6 +93353,7 @@
       }
     ],
     "opponents": [
+      "nikolay veretennikov",
       "uros medic",
       "miguel baeza",
       "dustin stoltzfus",
@@ -94806,6 +93366,7 @@
       "jamie pickett"
     ],
     "opponents_urls": {
+      "nikolay veretennikov": "http://ufcstats.com/fighter-details/0f1efce7d2571d10",
       "uros medic": "http://ufcstats.com/fighter-details/681399317dbf4701",
       "miguel baeza": "http://ufcstats.com/fighter-details/82d4c957649faf9b",
       "dustin stoltzfus": "http://ufcstats.com/fighter-details/71505842fb6455c3",
@@ -96886,17 +95447,17 @@
     "stance": "Orthodox",
     "reach_in": 75.0,
     "reach_cm": 190.5,
-    "total_fights": 10,
+    "total_fights": 11,
     "wins": 4,
-    "losses": 6,
+    "losses": 7,
     "draws": 0,
     "avg_fight_time_sec": null,
     "sig_strike_acc": 45.0,
     "sig_strike_def": 47.0,
-    "sapm": 3.14,
-    "td_acc": 41.0,
+    "sapm": 3.23,
+    "td_acc": 37.0,
     "td_def": 46.0,
-    "sub_avg15": 1.3,
+    "sub_avg15": 1.1,
     "ko_wins": 2,
     "sub_wins": 1,
     "unanimous_dec_wins": 1,
@@ -96905,7 +95466,7 @@
     "dq_wins": 0,
     "ko_losses": 2,
     "sub_losses": 2,
-    "unanimous_dec_losses": 2,
+    "unanimous_dec_losses": 3,
     "split_dec_losses": 0,
     "majority_dec_losses": 0,
     "dq_losses": 0,
@@ -96939,6 +95500,11 @@
         "28-29"
       ],
       [
+        "27-30",
+        "28-29",
+        "28-29"
+      ],
+      [
         "28-29",
         "28-29",
         "28-29"
@@ -96955,12 +95521,18 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "loss",
+        "method": "DECISION - UNANIMOUS",
         "rank": "NR",
         "is_title": false,
-        "scores": [],
+        "scores": [
+          [
+            "27-30",
+            "28-29",
+            "28-29"
+          ]
+        ],
         "opponent": "kelvin gastelum",
         "opponent_url": "http://ufcstats.com/fighter-details/8c0580d4fff106c1"
       },
@@ -97925,6 +96497,7 @@
     ],
     "all_opponent_ranks": [
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 50.0,
@@ -97936,6 +96509,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "eric mcconico",
+        "opponent_url": "http://ufcstats.com/fighter-details/9508cc6184cb2450"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -97958,10 +96541,12 @@
       }
     ],
     "opponents": [
+      "eric mcconico",
       "eric nolan",
       "murtaza talha"
     ],
     "opponents_urls": {
+      "eric mcconico": "http://ufcstats.com/fighter-details/9508cc6184cb2450",
       "eric nolan": "http://ufcstats.com/fighter-details/64b12fe31be7560c",
       "murtaza talha": "http://ufcstats.com/fighter-details/6aab5c20395ee722"
     }
@@ -97972,10 +96557,10 @@
       "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
       "https://www.roster.watch/fighters/louiesutherland.html"
     ],
-    "weight_class": 265,
-    "stance": null,
-    "reach_in": null,
-    "reach_cm": null,
+    "weight_class": 264,
+    "stance": "Orthodox",
+    "reach_in": 76.0,
+    "reach_cm": 193.0,
     "total_fights": 1,
     "wins": 0,
     "losses": 0,
@@ -98001,9 +96586,7 @@
     "dq_losses": 0,
     "ranked_wins": 0,
     "win_opponent_ranks": [],
-    "all_opponent_ranks": [
-      "NR"
-    ],
+    "all_opponent_ranks": [],
     "ko_pct": 100.0,
     "sub_pct": 0.0,
     "dec_pct": 0.0,
@@ -98012,24 +96595,9 @@
     "championship_losses": 0,
     "championship_fights": 0,
     "most_recent_year": 0,
-    "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "justin tafa",
-        "opponent_url": "http://ufcstats.com/fighter-details/e13abac8089a801a"
-      }
-    ],
-    "opponents": [
-      "justin tafa"
-    ],
-    "opponents_urls": {
-      "justin tafa": "http://ufcstats.com/fighter-details/e13abac8089a801a"
-    }
+    "fight_records": [],
+    "opponents": [],
+    "opponents_urls": {}
   },
   {
     "name": "Cub Swanson",
@@ -98879,7 +97447,6 @@
       "NR",
       "NR",
       "NR",
-      "NR",
       "NR"
     ],
     "ko_pct": 100.0,
@@ -98907,16 +97474,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "louie sutherland",
-        "opponent_url": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26"
-      },
       {
         "year": 2025,
         "result": "loss",
@@ -99037,7 +97594,6 @@
       }
     ],
     "opponents": [
-      "louie sutherland",
       "tallison teixeira",
       "karl williams",
       "austen lane",
@@ -99050,7 +97606,6 @@
       "yorgan de castro"
     ],
     "opponents_urls": {
-      "louie sutherland": "http://ufcstats.com/fighter-details/cdb7b38b1b357f26",
       "tallison teixeira": "http://ufcstats.com/fighter-details/17923f676f100e16",
       "karl williams": "http://ufcstats.com/fighter-details/d35f734c56a89103",
       "austen lane": "http://ufcstats.com/fighter-details/be9bdec19b7e9ffe",
@@ -99104,7 +97659,6 @@
       "NR",
       "NR",
       "NR",
-      "NR",
       "15",
       "NR",
       "NR"
@@ -99124,16 +97678,6 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
-      {
-        "year": 0,
-        "result": "next",
-        "method": "",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "ibo aslan",
-        "opponent_url": "http://ufcstats.com/fighter-details/6e8f1bcdda94ff45"
-      },
       {
         "year": 2025,
         "result": "loss",
@@ -99202,7 +97746,6 @@
       }
     ],
     "opponents": [
-      "ibo aslan",
       "tuco tokkos",
       "sean sharaf",
       "valter walker",
@@ -99211,7 +97754,6 @@
       "mohammed usman"
     ],
     "opponents_urls": {
-      "ibo aslan": "http://ufcstats.com/fighter-details/6e8f1bcdda94ff45",
       "tuco tokkos": "http://ufcstats.com/fighter-details/3e8118c1ab52f211",
       "sean sharaf": "http://ufcstats.com/fighter-details/0f3a990526c5e706",
       "valter walker": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
@@ -101222,19 +99764,19 @@
     "stance": "Orthodox",
     "reach_in": 74.0,
     "reach_cm": 188.0,
-    "total_fights": 10,
-    "wins": 4,
+    "total_fights": 11,
+    "wins": 5,
     "losses": 6,
     "draws": 0,
     "avg_fight_time_sec": null,
     "sig_strike_acc": 57.0,
-    "sig_strike_def": 47.0,
-    "sapm": 4.53,
-    "td_acc": 17.0,
+    "sig_strike_def": 48.0,
+    "sapm": 4.4,
+    "td_acc": 21.0,
     "td_def": 42.0,
-    "sub_avg15": 0.2,
+    "sub_avg15": 0.3,
     "ko_wins": 3,
-    "sub_wins": 0,
+    "sub_wins": 1,
     "unanimous_dec_wins": 1,
     "split_dec_wins": 0,
     "majority_dec_wins": 0,
@@ -101247,6 +99789,7 @@
     "dq_losses": 0,
     "ranked_wins": 0,
     "win_opponent_ranks": [
+      "NR",
       "NR",
       "NR",
       "NR",
@@ -101265,9 +99808,9 @@
       "NR",
       "NR"
     ],
-    "ko_pct": 75.0,
-    "sub_pct": 0.0,
-    "dec_pct": 25.0,
+    "ko_pct": 60.0,
+    "sub_pct": 20.0,
+    "dec_pct": 20.0,
     "decision_scores": [
       [
         "28-29",
@@ -101286,9 +99829,9 @@
     "most_recent_year": 2025,
     "fight_records": [
       {
-        "year": 0,
-        "result": "next",
-        "method": "",
+        "year": 2025,
+        "result": "win",
+        "method": "SUBMISSION",
         "rank": "NR",
         "is_title": false,
         "scores": [],
@@ -105679,6 +104222,7 @@
     ],
     "all_opponent_ranks": [
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 50.0,
@@ -105690,6 +104234,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "ramiz brahimaj",
+        "opponent_url": "http://ufcstats.com/fighter-details/3d074044a33825e7"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -105712,10 +104266,12 @@
       }
     ],
     "opponents": [
+      "ramiz brahimaj",
       "nikolay veretennikov",
       "angelo trevino"
     ],
     "opponents_urls": {
+      "ramiz brahimaj": "http://ufcstats.com/fighter-details/3d074044a33825e7",
       "nikolay veretennikov": "http://ufcstats.com/fighter-details/0f1efce7d2571d10",
       "angelo trevino": "http://ufcstats.com/fighter-details/0cf9f5518d6063bb"
     }
@@ -106377,6 +104933,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -106404,6 +104961,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "punahele soriano",
+        "opponent_url": "http://ufcstats.com/fighter-details/64facb6cc564262d"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -106464,12 +105031,14 @@
       }
     ],
     "opponents": [
+      "punahele soriano",
       "francisco prado",
       "austin vanderford",
       "danny barlow",
       "michael morales"
     ],
     "opponents_urls": {
+      "punahele soriano": "http://ufcstats.com/fighter-details/64facb6cc564262d",
       "francisco prado": "http://ufcstats.com/fighter-details/3920d0cc288f9b0d",
       "austin vanderford": "http://ufcstats.com/fighter-details/32c3ee378671a5d9",
       "danny barlow": "http://ufcstats.com/fighter-details/b7c5eb7cdbac6a63",
@@ -106974,6 +105543,7 @@
       "NR",
       "NR",
       "NR",
+      "NR",
       "NR"
     ],
     "ko_pct": 0.0,
@@ -107001,6 +105571,16 @@
     "championship_fights": 0,
     "most_recent_year": 2025,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "bo nickal",
+        "opponent_url": "http://ufcstats.com/fighter-details/35673bf5204524ee"
+      },
       {
         "year": 2025,
         "result": "win",
@@ -107111,6 +105691,7 @@
       }
     ],
     "opponents": [
+      "bo nickal",
       "tresean gore",
       "andre petroski",
       "armen petrosyan",
@@ -107122,6 +105703,7 @@
       "oskar piechota"
     ],
     "opponents_urls": {
+      "bo nickal": "http://ufcstats.com/fighter-details/35673bf5204524ee",
       "tresean gore": "http://ufcstats.com/fighter-details/147e70aa6cc48cfc",
       "andre petroski": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
       "armen petrosyan": "http://ufcstats.com/fighter-details/369ea36e450ae62a",
@@ -109380,7 +107962,7 @@
       "https://www.roster.watch/fighters/jakubwiklacz.html"
     ],
     "weight_class": 135,
-    "stance": null,
+    "stance": "Orthodox",
     "reach_in": null,
     "reach_cm": null,
     "total_fights": 1,
@@ -109681,112 +108263,6 @@
       "michel pereira": "http://ufcstats.com/fighter-details/595db60957de51d3",
       "abdul razak alhassan": "http://ufcstats.com/fighter-details/eae431e70064e046",
       "alex morono": "http://ufcstats.com/fighter-details/cdb96af67d096b1e"
-    }
-  },
-  {
-    "name": "Westin Wilson",
-    "url": [
-      "http://ufcstats.com/fighter-details/7b3503352cd53abb",
-      "https://www.roster.watch/fighters/westinwilson.html"
-    ],
-    "weight_class": 145,
-    "stance": "Southpaw",
-    "reach_in": 73.0,
-    "reach_cm": 185.4,
-    "total_fights": 4,
-    "wins": 1,
-    "losses": 3,
-    "draws": 0,
-    "avg_fight_time_sec": null,
-    "sig_strike_acc": 31.0,
-    "sig_strike_def": 30.0,
-    "sapm": 6.71,
-    "td_acc": 16.0,
-    "td_def": 33.0,
-    "sub_avg15": 7.9,
-    "ko_wins": 0,
-    "sub_wins": 1,
-    "unanimous_dec_wins": 0,
-    "split_dec_wins": 0,
-    "majority_dec_wins": 0,
-    "dq_wins": 0,
-    "ko_losses": 3,
-    "sub_losses": 0,
-    "unanimous_dec_losses": 0,
-    "split_dec_losses": 0,
-    "majority_dec_losses": 0,
-    "dq_losses": 0,
-    "ranked_wins": 0,
-    "win_opponent_ranks": [
-      "NR"
-    ],
-    "all_opponent_ranks": [
-      "NR",
-      "NR",
-      "NR",
-      "NR"
-    ],
-    "ko_pct": 0.0,
-    "sub_pct": 100.0,
-    "dec_pct": 0.0,
-    "decision_scores": [],
-    "championship_wins": 0,
-    "championship_losses": 0,
-    "championship_fights": 0,
-    "most_recent_year": 2025,
-    "fight_records": [
-      {
-        "year": 2025,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "yizha",
-        "opponent_url": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1"
-      },
-      {
-        "year": 2024,
-        "result": "win",
-        "method": "SUBMISSION",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jeka saragih",
-        "opponent_url": "http://ufcstats.com/fighter-details/57186c150c645200"
-      },
-      {
-        "year": 2024,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "jean silva",
-        "opponent_url": "http://ufcstats.com/fighter-details/52ef95b5860fb28c"
-      },
-      {
-        "year": 2023,
-        "result": "loss",
-        "method": "KO/TKO",
-        "rank": "NR",
-        "is_title": false,
-        "scores": [],
-        "opponent": "joanderson brito",
-        "opponent_url": "http://ufcstats.com/fighter-details/791c8437b341fba5"
-      }
-    ],
-    "opponents": [
-      "yizha",
-      "jeka saragih",
-      "jean silva",
-      "joanderson brito"
-    ],
-    "opponents_urls": {
-      "yizha": "http://ufcstats.com/fighter-details/3f11fd1751fa83b1",
-      "jeka saragih": "http://ufcstats.com/fighter-details/57186c150c645200",
-      "jean silva": "http://ufcstats.com/fighter-details/52ef95b5860fb28c",
-      "joanderson brito": "http://ufcstats.com/fighter-details/791c8437b341fba5"
     }
   },
   {
@@ -111719,6 +110195,7 @@
     "all_opponent_ranks": [
       "NR",
       "NR",
+      "NR",
       "13",
       "6",
       "NR",
@@ -111748,6 +110225,16 @@
     "championship_fights": 0,
     "most_recent_year": 2024,
     "fight_records": [
+      {
+        "year": 0,
+        "result": "next",
+        "method": "",
+        "rank": "NR",
+        "is_title": false,
+        "scores": [],
+        "opponent": "cristian quinonez",
+        "opponent_url": "http://ufcstats.com/fighter-details/7debc13b36343605"
+      },
       {
         "year": 2024,
         "result": "loss",
@@ -111862,6 +110349,7 @@
       }
     ],
     "opponents": [
+      "cristian quinonez",
       "daniel marcos",
       "vinicius salvador",
       "jonathan martinez",
@@ -111874,6 +110362,7 @@
       "brady huang"
     ],
     "opponents_urls": {
+      "cristian quinonez": "http://ufcstats.com/fighter-details/7debc13b36343605",
       "daniel marcos": "http://ufcstats.com/fighter-details/850266b3dc4e506e",
       "vinicius salvador": "http://ufcstats.com/fighter-details/65cdf4ec31143d86",
       "jonathan martinez": "http://ufcstats.com/fighter-details/f2477cf43c4975cc",

@@ -76,5 +76,21 @@ Rob Font 🇵🇷 vs David Martinez 🇲🇽
 Diego Lopes 🇧🇷 vs Jean Silva 🇧🇷
 - Model win probability: diego lopes 45.79% | jean silva 54.21%  (stats shift: -3.11 pp)
 
+14-9  60.8%
 
+UFC PERTH - V5
 
+Navajo Stirling vs Rodolfo Bellato
+Model win probability: navajo stirling 59.06% | rodolfo bellato 40.94%  (stats shift: +5.52 pp)
+
+Tom Nolan vs Charlie Campbell
+Model win probability: tom nolan 44.53% | charlie campbell 55.47%  (stats shift: -5.06 pp)
+
+Jake Matthews vs Neil Magny
+Model win probability: Jake Matthews 50.81% | Neil Magny 49.19%  (stats shift: +0.90 pp)
+
+Jimmy Crute vs Ivan Erslan
+Model win probability: jimmy crute 51.83% | ivan erslan 48.17%  (stats shift: -0.85 pp)
+
+Carlos Ulberg vs Dominick Reyes
+Model win probability: Carlos Ulberg 51.70% | Dominick Reyes 48.30%  (stats shift: +2.29 pp)
